@@ -30,21 +30,21 @@ const Nav = ({ siteTitle }) => {
           <Logo />
         </Link>
         <div className="Nav--Links">
-          <NavLink to="/" exact>
-            Home
+          <NavLink to="https://beliive.com" exact>
+            Site
           </NavLink>
-          <NavLink to="/about/" exact>
+          {/* <NavLink to="/about/" exact>
             About
-          </NavLink>
+          </NavLink> */}
           <NavLink to="/blog/" exact>
             Blog
           </NavLink>
-          <NavLink to="/default/" exact>
+          {/* <NavLink to="/default/" exact>
             Default
           </NavLink>
           <NavLink to="/contact/" exact>
             Contact
-          </NavLink>
+          </NavLink> */}
         </div>
         <button
           className="Button-blank Nav--MenuButton"
