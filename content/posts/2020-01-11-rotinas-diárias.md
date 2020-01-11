@@ -12,3 +12,7 @@ meta:
   title: Rotinas diárias
 ---
 Testando post no blog
+
+
+
+![](/images/uploads/card-og.png)
