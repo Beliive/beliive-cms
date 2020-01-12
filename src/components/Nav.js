@@ -26,7 +26,7 @@ const Nav = ({ siteTitle }) => {
   return (
     <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
       <div className="Nav--Container container">
-        <Link to="/blog/" onClick={handleLinkClick} title={siteTitle}>
+        <Link to="/" onClick={handleLinkClick} title={siteTitle}>
           <Logo />
         </Link>
         <div className="Nav--Links">
@@ -39,7 +39,7 @@ const Nav = ({ siteTitle }) => {
           {/* <NavLink to="/about/" exact>
             About
           </NavLink> */}
-          <NavLink to="/blog/" exact>
+          <NavLink to="/" exact>
             Blog
           </NavLink>
           {/* <NavLink to="/default/" exact>

@@ -1,4 +1,11 @@
 ---
+template: BlogIndex
+slug: ''
+title: Blog da Beliive
+featuredImage: /images/uploads/background.jpg
+subtitle: Acredite no poder das pessoas!
+---
+<!-- ---
 template: HomePage
 slug: ''
 title: Hello World!
@@ -21,4 +28,4 @@ An opinionated starter project for creating lightning-fast websites with [Gatsby
 
 [Netlify CMS Docs](https://www.netlifycms.org/docs/)  
 [Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
-[Gatsby + Netlify CMS Starter](https://github.com/AustinGreen/gatsby-starter-netlify-cms)
+[Gatsby + Netlify CMS Starter](https://github.com/AustinGreen/gatsby-starter-netlify-cms) -->
