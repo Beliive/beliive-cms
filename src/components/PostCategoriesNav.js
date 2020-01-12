@@ -20,7 +20,7 @@ const PostCategoriesNav = ({ categories }) => (
       </Link>
     ))}
 
-    {enableSearch && <BlogSearch />}
+    {/* {enableSearch && <BlogSearch />} */}
   </div>
 )
 
