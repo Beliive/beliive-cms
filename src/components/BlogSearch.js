@@ -1,5 +1,5 @@
 import React from 'react'
-import { navigate } from 'gatsby'
+import { navigate } from 'gatsby-link'
 import { Location } from '@reach/router'
 import qs from 'qs'
 
@@ -13,7 +13,7 @@ export default ({ pageCount }) => {
           <input
             type="text"
             value={search.s || ''}
-            placeholder="Search..."
+            placeholder="Buscar..."
             onChange={e => {
               let search = {}
               search.s = e.target.value
