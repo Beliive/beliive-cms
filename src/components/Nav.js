@@ -26,13 +26,16 @@ const Nav = ({ siteTitle }) => {
   return (
     <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
       <div className="Nav--Container container">
-        <Link to="/" onClick={handleLinkClick} title={siteTitle}>
+        <Link to="/blog/" onClick={handleLinkClick} title={siteTitle}>
           <Logo />
         </Link>
         <div className="Nav--Links">
-          <NavLink to="https://beliive.com" exact>
+          <a href="https://beliive.com" alt="Ir para o Site da beliive" >
             Site
-          </NavLink>
+          </a>
+          {/* <NavLink to="/" exact>
+            Site
+          </NavLink> */}
           {/* <NavLink to="/about/" exact>
             About
           </NavLink> */}
