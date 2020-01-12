@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import BlogSearch from './BlogSearch'
 import './PostCategoriesNav.css'
 
 const PostCategoriesNav = ({ categories }) => (
@@ -18,6 +19,8 @@ const PostCategoriesNav = ({ categories }) => (
         {category.title}
       </Link>
     ))}
+
+    {enableSearch && <BlogSearch />}
   </div>
 )
 

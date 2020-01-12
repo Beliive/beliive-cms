@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Image from '../components/Image'
+import Image from './Image'
 
 import './InstagramFeed.css'
 

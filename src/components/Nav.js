@@ -30,7 +30,7 @@ const Nav = ({ siteTitle }) => {
           <Logo />
         </Link>
         <div className="Nav--Links">
-          <a href="https://beliive.com" alt="Ir para o Site da beliive" >
+          <a class="NavLink" href="https://beliive.com" alt="Ir para o Site da beliive" >
             Site
           </a>
           {/* <NavLink to="/" exact>
