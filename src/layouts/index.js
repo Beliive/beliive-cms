@@ -7,7 +7,6 @@ import './globalStyles.css'
 import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import GithubCorner from '../components/GithubCorner'
 
 export default ({ children, data }) => {
   const {
@@ -34,8 +33,6 @@ export default ({ children, data }) => {
         }
         description={siteDescription}
       />
-
-      <GithubCorner url="https://github.com/Jinksi/gatsbro" />
 
       <Nav siteTitle={siteTitle} />
 
