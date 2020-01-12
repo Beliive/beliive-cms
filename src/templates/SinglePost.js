@@ -5,6 +5,7 @@ import _format from 'date-fns/format'
 import Link from 'gatsby-link'
 import { ChevronLeft } from 'react-feather'
 
+import SEO from "../components/seo"
 import Content from '../components/Content'
 import Image from '../components/Image'
 import './SinglePost.css'
@@ -23,9 +24,14 @@ export const SinglePostTemplate = ({
     itemScope
     itemType="http://schema.org/BlogPosting"
   >
-    <Helmet>
+    <SEO
+      title={title}
+      //description={description}
+      image={featuredImage}
+    />
+    {/* <Helmet>
       <title>{title}</title>
-    </Helmet>
+    </Helmet> */}
 
     {featuredImage && (
       <Image
