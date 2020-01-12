@@ -2,5 +2,5 @@ siteTitle: Beliive blog
 siteUrl: 'https://beliive-cms.netlify.com'
 siteDescription: Beliive in the power of people.
 socialMediaCard:
-  image: /images/uploads/beliive-share.png
+  image: images/uploads/beliive-share.png
 headerScripts: <!-- Add your analytics scripts / verification meta here -->

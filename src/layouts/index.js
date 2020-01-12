@@ -20,7 +20,7 @@ export default ({ children, data }) => {
   return (
     <Fragment>
       <Helmet defaultTitle={siteTitle} titleTemplate={`%s | ${siteTitle}`}>
-        <html lang="en" />
+        <html lang="pt" />
         {/* Add font link tags here */}
       </Helmet>
 
