@@ -4,7 +4,7 @@ title: titulo do post
 status: Published
 date: '2020-01-14'
 featuredImage: /images/uploads/beliive-share.png
-excerpt: titulo do post
+excerpt: titulo do post.
 categories:
   - category: Trabalho Remoto
 meta:
