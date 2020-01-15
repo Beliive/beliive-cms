@@ -9,7 +9,7 @@ excerpt: >-
   para alcançar um mesmo propósito ou para concretizar suas afinidades,
   partilhando experiências.
 categories:
-  - {}
+  - category: Comunidades
 meta:
   description: ''
   title: ''
@@ -17,6 +17,8 @@ meta:
 A força de uma comunidade está na paixão e energia que seus membros despendem para alcançar um mesmo propósito ou para concretizar suas afinidades, partilhando experiências.
 
 ![Colaboração no trabalho](/images/uploads/1_2qnbum6eoseo-ne61fq6kw.png)
+
+
 
 Comunidades são, por definição, agrupamentos de pessoas que compartilham de um determinado conjunto de normas, crenças ou cultura.
 
@@ -26,7 +28,7 @@ Hoje vivemos em uma era digital e cada vez mais global, em que somos estimulados
 
 E graças aos modernos meios de transporte e comunicação, a distância e contato entre as pessoas é cada vez menor, o que permite que indivíduos possam se conectar de qualquer lugar e em qualquer tempo, e que podemos ampliar esse conceito de comunidade para agrupamentos de pessoas que compartilham qualquer paixão ou propósito que tenham em comum, desde um determinado gosto musical, uma religião ou causa social.
 
-# . . . 
+# . . .
 
 Qualquer propósito, desde torcer para o mesmo time de futebol, compartilharem sobre um livro que tenham lido ou mesmo um hobby, qualquer coisa que desperte a paixão de alguém pode se tornar uma chave que tem o poder de unir as pessoas em comunidade. Não importa o quão relevante seja considerado esse propósito para o mundo, mas sim o quanto ele é importante para as pessoas envolvidas e pertencentes ao grupo.
 
@@ -34,7 +36,11 @@ Em uma conferência de TEDx, a política holandesa e prefeita de Beesel, Petra D
 
 > “Toda sociedade tem pelo menos um motivo pelo qual as pessoas são muito orgulhosas, vivem por, e estão dispostas a colocar muita energia nisso.”
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ksg9YoBS3XQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Se o que compõe uma comunidade é seu propósito, o que a torna forte é a energia e vontade de seus membros de fazer parte dela, o famoso engajamento. E engajar pessoas em uma comunidade nem sempre é tão simples e tem sido um grande desafio para muitos líderes. É preciso manter a chama daquela paixão e propósito acesa, em meio a um mundo tecnológico onde recebemos tantos estímulos e distrações o tempo inteiro, todos os dias.
 
