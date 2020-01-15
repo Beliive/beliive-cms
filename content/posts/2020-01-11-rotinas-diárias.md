@@ -17,7 +17,7 @@ meta:
 ---
 A Cláudia Sampaio descobriu na Beliive que possui um talento que nem imaginava e que pode ajudar muitas pessoas! Fazer e melhorar currículos!
 
-# . . .
+# 
 
 ## Esta é a Claudia de Florianópolis
 
@@ -47,7 +47,7 @@ E agora além das trocas que ela já oferecia, a Cláudia ajuda muitas pessoas q
 
 Assim como a Cláudia, muitos não sabem que seus talentos e habilidades, pequenas coisas que sabemos fazer e muitas vezes não damos valor, podem ser exatamente as necessidades de outras pessoas.
 
-# . . .
+
 
 Já parou para pensar naquilo que você faz bem? Cozinhar, cantar, se tem facilidade em organizar gavetas, se é uma boa companhia para um bate-papo, qualquer coisa que você faça, com certeza há alguém precisando dessa ajuda e você pode fazer a diferença na vida dessas pessoas.
 
