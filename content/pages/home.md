@@ -2,8 +2,8 @@
 template: BlogIndex
 slug: ''
 title: Blog da Beliive
-featuredImage: /images/uploads/background.jpg
-subtitle: Acredite no poder das pessoas!
+featuredImage: /images/uploads/banner-12-1-.png
+subtitle: Colaborar é revolucionário!
 ---
 <!-- ---
 template: HomePage
