@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: Trabalho Remoto
-featuredImage: /images/uploads/alexa-williams-rayjmmmasca-unsplash.jpg
+title: Histórias de Usuários
+featuredImage: /images/uploads/banner-10.png
 ---
 
