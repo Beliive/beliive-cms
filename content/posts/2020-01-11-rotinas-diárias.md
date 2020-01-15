@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Histórias de Usuários: conheça a Cláudia'
 status: Published
 date: '2020-01-11'
-featuredImage: /images/uploads/bench-accounting-c3v88boorom-unsplash.jpg
+featuredImage: /images/uploads/803redux.jpg
 excerpt: >-
   A Cláudia Sampaio descobriu na Beliive que possui um talento que nem imaginava
   e que pode ajudar muitas pessoas! Fazer e melhorar currículos!
