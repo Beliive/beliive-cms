@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: ''
 title: Blog da Beliive
-featuredImage: /images/uploads/banner-12-1-.png
+featuredImage: /images/uploads/banner-14-1-.png
 subtitle: Colaborar é revolucionário!
 ---
 <!-- ---
