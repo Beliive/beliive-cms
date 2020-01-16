@@ -7,6 +7,8 @@ featuredImage: /images/uploads/867reduced.jpg
 excerpt: >-
   Muitas vezes nos fechamos para o mundo, por medo de confrontar nossos próprios
   valores, encarar o desconhecido e principalmente, por medo de falhar.
+categories:
+  - category: Desenvolvimento Pessoal
 ---
 Muitas vezes nos fechamos para o mundo, por medo de confrontar nossos próprios valores, encarar o desconhecido e principalmente, por medo de falhar.
 
