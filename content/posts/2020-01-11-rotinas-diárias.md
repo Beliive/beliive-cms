@@ -35,7 +35,7 @@ A Claudia se inscreveu na Beliive em 2015 e oferecia trocas de conversação de 
 
 > “Eu troquei um serviço de dicas de currículo com um rapaz que tinha um baita currículo no sentido de conhecimentos e experiência. Com um gabarito desses, ele sabia tanta coisa da área de negócios e não sabia fazer currículo. Eu transformei aquele currículo, ele adorou, e eu pensei, ‘cara, eu faço isso muito bem, eu tenho que oferecer isso mesmo!’”
 
-E agora além das trocas que ela já oferecia, a Cláudia ajuda muitas pessoas que precisam de emprego a criarem seus currículos e organizarem suas experiências profissionais da melhor forma.
+E agora além das trocas que ela já oferecia, a Claudia ajuda muitas pessoas que precisam de emprego a criarem seus currículos e organizarem suas experiências profissionais da melhor forma.
 
 > “A Beliive me ajudou a refletir sobre o que eu posso oferecer para o mundo e que não necessariamente precise ser trocado por dinheiro, porque dinheiro não deve ser a única coisa que a mover as pessoas.”
 
@@ -49,4 +49,4 @@ Assim como a Claudia, muitos não sabem que seus talentos e habilidades, pequena
 
 Já parou para pensar naquilo que você faz bem? Cozinhar, cantar, se tem facilidade em organizar gavetas, se é uma boa companhia para um bate-papo, qualquer coisa que você faça, com certeza há alguém precisando dessa ajuda e você pode fazer a diferença na vida dessas pessoas.
 
-_**Colaborar é mesmo revolucionário!**_
+**_Colaborar é mesmo revolucionário!_**
