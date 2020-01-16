@@ -20,13 +20,13 @@ O tempo que passou não voltará. Mas os reflexos e consequências de tudo aquil
 
 E isso pode ser muito bom.
 
-![](/images/uploads/1_6_j4-i1wxebt264spurckw.png)
+![null](/images/uploads/1_6_j4-i1wxebt264spurckw.png)
 
 ## Você sabe quanto vale o seu tempo?
 
 Estamos tão acostumados a viver nesse sistema monetário em que tudo o que consideramos importante deve possuir uma etiqueta de preço, e tudo pode ser comprado em uma loja ou e-commerce, que não conseguimos valorizar aquilo que temos à disposição sem nenhum custo.
 
-O primeiro bilionário da história, John Rockefeller disse que**_ “quem trabalha demais não tem tempo para ganhar dinheiro”_**, e a verdade é que passamos tantas horas do nosso dia fazendo atividades de maneira automática e rotineira, que por vezes não conseguimos fazer as coisas que realmente desejamos ou que deveríamos para atingir determinado propósito — por falta de tempo. E tal propósito pode ser realmente ganhar dinheiro, mas também pode ser ler um livro, aprender um novo idioma, um instrumento musical ou cozinhar um jantar especial.
+O primeiro bilionário da história, John Rockefeller disse que_** “quem trabalha demais não tem tempo para ganhar dinheiro”**_, e a verdade é que passamos tantas horas do nosso dia fazendo atividades de maneira automática e rotineira, que por vezes não conseguimos fazer as coisas que realmente desejamos ou que deveríamos para atingir determinado propósito — por falta de tempo. E tal propósito pode ser realmente ganhar dinheiro, mas também pode ser ler um livro, aprender um novo idioma, um instrumento musical ou cozinhar um jantar especial.
 
 Algumas dessas realizações podem ser resolvidas em poucas horas, outras levam dias, semanas, meses ou anos. _Mas o que começou no passado continua no presente_, então, se começarmos algo hoje seus reflexos futuros serão os resultados desse investimento.
 
