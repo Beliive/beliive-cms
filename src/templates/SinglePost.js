@@ -26,11 +26,11 @@ export const SinglePostTemplate = ({
   >
     <Helmet>
       <title>{title}</title>
+      <description>featuredImage</description>
+      {featuredImage && (
+        <meta property="og:image" content={featuredImage} />
+      )}
     </Helmet>
-  
-    <Meta
-      absoluteImageUrl={featuredImage}
-    />
 
     {featuredImage && (
       <Image
