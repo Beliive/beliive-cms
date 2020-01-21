@@ -114,7 +114,6 @@ const SinglePost = ({ data, pathContext }) => {
   }
   return (
     <SinglePostTemplate
-      {}
       {...post}
       {...post.frontmatter}
       body={post.html}
