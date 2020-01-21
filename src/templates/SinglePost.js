@@ -18,7 +18,8 @@ export const SinglePostTemplate = ({
   body,
   nextPostURL,
   prevPostURL,
-  categories = []
+  categories = [],
+  disqusConfig
 }) => (
   <article
     className="SinglePost section light"
@@ -113,11 +114,13 @@ const SinglePost = ({ data, pathContext }) => {
   }
   return (
     <SinglePostTemplate
+      {}
       {...post}
       {...post.frontmatter}
       body={post.html}
       nextPostURL={_get(thisEdge, 'next.fields.slug')}
       prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+      disqusConfig={disqusConfig}
     />
   )
 }
