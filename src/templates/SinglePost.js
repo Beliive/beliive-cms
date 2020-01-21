@@ -96,9 +96,9 @@ export const SinglePostTemplate = ({
             </Link>
           )}
         </div>
-      </div>
-      <div>
-        <DiscussionEmbed {...disqusConfig} />
+        <div>
+          <DiscussionEmbed {...disqusConfig} />
+        </div>
       </div>
     </div>
   </article>
