@@ -10,6 +10,8 @@ excerpt: >-
   que ele pode ajudar de alguma maneira a tornar o mundo melhor. Isso porque
   através de uma reação em cadeia, sem que você imagine, suas realizações podem
   afetar o bem estar das pessoas que vivem ao seu redor e além.
+categories:
+  - category: DESENVOLVIMENTO PESSOAL
 ---
 Todas as pessoas possuem propósitos na vida, alguns são mais simples e outros mais complexos, mas não importa qual seja o seu propósito neste momento, saiba que ele pode ajudar de alguma maneira a tornar o mundo melhor. Isso porque através de uma reação em cadeia, sem que você imagine, suas realizações podem afetar o bem estar das pessoas que vivem ao seu redor e além.
 
