@@ -60,4 +60,4 @@ Da mesma maneira, muitas pessoas pensam que não saber algo é motivo de vergonh
 
 Buscar aprender coisas novas e encorajar sua equipe a trocar conhecimentos de maneira horizontal é uma ótima maneira de valorizar as qualidades individuais ao mesmo tempo em que se promove a colaboração e união entre as pessoas, além da descoberta de novos talentos e habilidades.
 
-**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários **[**aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
+**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários** [**aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
