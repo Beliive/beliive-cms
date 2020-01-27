@@ -11,13 +11,13 @@ excerpt: >-
   através de uma reação em cadeia, sem que você imagine, suas realizações podem
   afetar o bem estar das pessoas que vivem ao seu redor e além.
 categories:
-  - category: DESENVOLVIMENTO PESSOAL
+  - category: Desenvolvimento Pessoal
 ---
 Todas as pessoas possuem propósitos na vida, alguns são mais simples e outros mais complexos, mas não importa qual seja o seu propósito neste momento, saiba que ele pode ajudar de alguma maneira a tornar o mundo melhor. Isso porque através de uma reação em cadeia, sem que você imagine, suas realizações podem afetar o bem estar das pessoas que vivem ao seu redor e além.
 
 ![](/images/uploads/1_l3sxvceexwimthaqecayrq.png)
 
-**Propósito **é aquilo que se tem intenção de fazer, realizar…alcançar. E deveria ser de interesse de todos que você consiga realizar o seu.
+**Propósito** é aquilo que se tem intenção de fazer, realizar…alcançar. E deveria ser de interesse de todos que você consiga realizar o seu.
 
 O bem estar de cada membro é fundamental para que qualquer comunidade funcione, não importa seu tamanho ou objetivos. Desde uma comunidade local, um grupo que possua interesses em comum ou funcionários de uma mesma organização, as realizações de cada um proporcionam impactos diretos ou indiretos nas realizações do grupo.
 
@@ -37,7 +37,7 @@ Há uma metáfora dentro da Teoria do Caos, que explica o conceito da dependênc
 
 Aplicado ao nosso contexto, significa que mesmo as realizações pessoais, que pareçam muito particulares para você, podem afetar a vida de muitas outras pessoas.
 
-Seu propósito pode ser desenvolver determinada habilidade para** melhorar seu desempenho no trabalho**. Ao atingir a sua meta, o quanto isso pode impactar em outras pessoas? Pode melhorar a qualidade do serviço oferecido, você pode conseguir novos e satisfeitos clientes, refletindo em um melhor ambiente de trabalho onde pessoas encontram-se mais realizadas com os resultados da empresa. Seus colegas de trabalho estão felizes e inspirados para atingir suas próprias realizações etc.
+Seu propósito pode ser desenvolver determinada habilidade para **melhorar seu desempenho no trabalho**. Ao atingir a sua meta, o quanto isso pode impactar em outras pessoas? Pode melhorar a qualidade do serviço oferecido, você pode conseguir novos e satisfeitos clientes, refletindo em um melhor ambiente de trabalho onde pessoas encontram-se mais realizadas com os resultados da empresa. Seus colegas de trabalho estão felizes e inspirados para atingir suas próprias realizações etc.
 
 Se sua motivação é apenas **aumentar a sua renda**, isso resultará em seu maior poder de compra, contribuindo para aquecer o comércio, gerar novos empregos, aumento na arrecadação de impostos e assim por diante.
 
