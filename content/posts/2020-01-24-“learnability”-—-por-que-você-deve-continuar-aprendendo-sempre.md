@@ -10,7 +10,7 @@ excerpt: >
   terra graças à descoberta da neuroplasticidade — capacidade do cérebro em
   mudar e reorganizar neurônios de acordo com as mudanças.
 categories:
-  - category: DESENVOLVIMENTO PESSOAL
+  - category: Desenvolvimento Pessoal
 ---
 A antiga crença de que devemos aprender tudo o que podemos enquanto somos jovens, e de que perdemos essa capacidade conforme vamos envelhecendo caiu por terra graças à descoberta da neuroplasticidade — capacidade do cérebro em mudar e reorganizar neurônios de acordo com as mudanças.
 
@@ -36,25 +36,19 @@ Além de criar conexões com seus colegas de trabalho, ensinar o que você sabe 
 
 Um pensador medieval inglês chamado Beda, que viveu entre os séculos VII e VIII disse que existem três caminhos para o fracasso:
 
-**1- Não ensinar o que se sabe.
-**
+**1- Não ensinar o que se sabe.**
 
-**2- Não praticar o que se ensina
-**
+**2- Não praticar o que se ensina**
 
-**3- Não perguntar o que se ignora.
-**
+**3- Não perguntar o que se ignora.**
 
 O filósofo brasileiro Mário Sérgio Cortella propõe então inverter os ensinos de Beda, no que seriam os 3 caminhos para o sucesso:
 
-**1- Ensinar o que sabe — significa generosidade mental.
-**
+**1- Ensinar o que sabe — significa generosidade mental.**
 
-**2- Praticar o que se ensina — por coerência ética.
-**
+**2- Praticar o que se ensina — por coerência ética.**
 
-**3- Perguntar o que ignora — humildade intelectual.
-**
+**3- Perguntar o que ignora — humildade intelectual.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nGydKkg-zJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,4 +62,4 @@ Da mesma maneira, muitas pessoas pensam que não saber algo é motivo de vergonh
 
 Buscar aprender coisas novas e encorajar sua equipe a trocar conhecimentos de maneira horizontal é uma ótima maneira de valorizar as qualidades individuais ao mesmo tempo em que se promove a colaboração e união entre as pessoas, além da descoberta de novos talentos e habilidades.
 
-**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários**[** aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
+**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários**[**aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
