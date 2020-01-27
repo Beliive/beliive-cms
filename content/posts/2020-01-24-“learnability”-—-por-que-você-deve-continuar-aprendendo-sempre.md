@@ -52,8 +52,6 @@ O filósofo brasileiro Mário Sérgio Cortella propõe então inverter os ensino
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nGydKkg-zJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 Reter o conhecimento não irá agregar nenhum valor ao seu desenvolvimento pessoal ou profissional, pelo contrário, ao não partilhar o que se sabe e ao não praticar o que se ensina, você não estará comprovando ou questionando seu conhecimento, a fim de compreender melhor determinado assunto ou mesmo trabalhar na sua imagem pessoal.
 
 Quando você compartilha seu conhecimento com outras pessoas, torna-se uma referência em determinado assunto, e quanto mais você faz isso, mais estuda e valida esse conhecimento, o que fará com que as pessoas o procurem e lembrem de você como uma pessoa generosa e proativa.
@@ -62,4 +60,4 @@ Da mesma maneira, muitas pessoas pensam que não saber algo é motivo de vergonh
 
 Buscar aprender coisas novas e encorajar sua equipe a trocar conhecimentos de maneira horizontal é uma ótima maneira de valorizar as qualidades individuais ao mesmo tempo em que se promove a colaboração e união entre as pessoas, além da descoberta de novos talentos e habilidades.
 
-**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários**[**aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
+**Saiba mais sobre nossa ferramenta para promover a colaboração entre funcionários **[**aqui**](https://beliive.com/for_companies?utm_source=medium&utm_medium=social)**.**
