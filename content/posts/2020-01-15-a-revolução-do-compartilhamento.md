@@ -13,13 +13,13 @@ categories:
 ---
 Economia compartilhada — ou consumo colaborativo — é uma tendência que pode ajudar o planeta a resistir aos impactos causados pela humanidade até agora, através da diminuição do consumo e o não acúmulo de bens.
 
-![](/images/uploads/1_9p8jnh1lwga0whikfaz5dq.png)
+![null](/images/uploads/1_9p8jnh1lwga0whikfaz5dq.png)
 
 Revoluções marcam a história da humanidade e através delas podemos entender a evolução do homem como sociedade e o impacto que o planeta sofre em decorrência disso.
 
 O homem vivia como caçador-coletor, o que significa que ele dependia da caça de animais e coleta de plantas e frutos para sobreviver. Como nômades, pessoas se mudavam a todo o momento para onde encontrassem algo que pudessem comer.
 
-Após a** Revolução Agrícola,** o ser humano descobriu que poderia plantar seu próprio alimento e, sem ter a necessidade de sair para procurá-lo, pôde fixar-se em um único local, onde se tornou possível acumular e estocar coisas.
+Após a**Revolução Agrícola,** o ser humano descobriu que poderia plantar seu próprio alimento e, sem ter a necessidade de sair para procurá-lo, pôde fixar-se em um único local, onde se tornou possível acumular e estocar coisas.
 
 Mas foi a **Revolução Industrial** que nos proporcionou uma variedade e quantidade inimaginável de produtos, como os que encontramos hoje à nossa disposição nas prateleiras dos mercados ou em sites de vendas na internet.
 
@@ -27,7 +27,7 @@ O desenvolvimento da publicidade tornou o consumo cada vez maior e campanhas de 
 
 Toda essa produção, superutilização dos recursos do planeta e descarte inadequado, nos trouxeram a um momento crítico de degradação do meio ambiente e ameaça à nossa própria sobrevivência como espécie, em que somos obrigados a repensar nosso modo de vida e refletir sobre o que pode ser recuperado.
 
-A **Revolução Digital **facilitou o começo dessa mudança, já que graças a ela entramos em uma era na qual informações e experiências podem ser mais valorizadas do que as coisas que possuímos.
+A **Revolução Digital** facilitou o começo dessa mudança, já que graças a ela entramos em uma era na qual informações e experiências podem ser mais valorizadas do que as coisas que possuímos.
 
 As novas gerações se voltam cada vez mais à experiência do consumo, já não é preciso acumular mídia física — não é necessário guardar livros, DVDs, CDs ou discos para acessar esse conteúdo. Com o streaming você não precisa nem mesmo guardar esses dados em seu computador ou celular, você apenas os acessa através da internet, a qualquer momento ou lugar.
 
@@ -38,6 +38,8 @@ Não é a toa que o método de organização da japonesa Marie Kondo e sua cultu
 E essa mudança não é algo individual, já é notório que a colaboração é um bom meio de usufruir de coisas sem necessariamente possuí-las.
 
 Ao contrário do que algumas pessoas imaginam, o conceito de economias compartilhadas não é algo tão novo — na verdade ele já existe desde os anos 1990, mas foi após os anos 2000, com o crescimento das redes sociais e desenvolvimento de novas plataformas, que esse conceito tomou novas formas e começou a se popularizar.
+
+<iframe src="https://giphy.com/embed/S65QkXAcdXvF1o9gHk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mural-app-mural-facilitator-facilitation-S65QkXAcdXvF1o9gHk"></a></p>
 
 Essas economias possibilitam a troca de bens e serviços sem a necessidade da aquisição de um produto, e por vezes sem troca monetária.
 
