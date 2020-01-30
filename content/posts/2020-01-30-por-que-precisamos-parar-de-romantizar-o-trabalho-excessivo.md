@@ -13,7 +13,7 @@ categories:
 ---
 A Síndrome de burnout foi oficializada como doença crônica e agora faz parte da lista da Organização Mundial de Saúde (OMS), apesar disso, muitos ainda não compreendem sua seriedade e consequências.
 
-![](/images/uploads/1688.jpg)
+![null](/images/uploads/1688.jpg)
 
 Também chamada de Síndrome do esgotamento profissional, a Síndrome de burnout foi assim denominada pelo psicanalista alemão Hebert J. Freudenberger em 1974. Trata-se de um distúrbio psicológico que se caracteriza pelo estado de tensão emocional e estresse provocados por condições de trabalho desgastantes.
 
@@ -33,13 +33,13 @@ Personagens workaholic são maravilhosamente retratados em filmes e livros biogr
 
 Imagens motivacionais circulam na internet, com frases como:
 
-**_“Estude, enquanto eles dormem._**
+**“Estude, enquanto eles dormem.**
 
-**_Trabalhe, enquanto eles se divertem._**
+**Trabalhe, enquanto eles se divertem.**
 
-**_Lute, enquanto eles descansam._**
+**Lute, enquanto eles descansam.**
 
-**_Depois viva o que eles sempre sonharam.”_**
+**Depois viva o que eles sempre sonharam.”**
 
 Em função de mitos como esses, pessoas têm deixado de sair com seus amigos, se alimentam mal, dormem poucas horas por dia, dedicam suas madrugadas para estudar e assistir a palestras e cursos na internet e assim vão esgotando suas mentes e corpos.
 
