@@ -19,7 +19,7 @@ Revoluções marcam a história da humanidade e através delas podemos entender 
 
 O homem vivia como caçador-coletor, o que significa que ele dependia da caça de animais e coleta de plantas e frutos para sobreviver. Como nômades, pessoas se mudavam a todo o momento para onde encontrassem algo que pudessem comer.
 
-Após a**Revolução Agrícola,** o ser humano descobriu que poderia plantar seu próprio alimento e, sem ter a necessidade de sair para procurá-lo, pôde fixar-se em um único local, onde se tornou possível acumular e estocar coisas.
+Após a **Revolução Agrícola,** o ser humano descobriu que poderia plantar seu próprio alimento e, sem ter a necessidade de sair para procurá-lo, pôde fixar-se em um único local, onde se tornou possível acumular e estocar coisas.
 
 Mas foi a **Revolução Industrial** que nos proporcionou uma variedade e quantidade inimaginável de produtos, como os que encontramos hoje à nossa disposição nas prateleiras dos mercados ou em sites de vendas na internet.
 
@@ -36,8 +36,6 @@ O futuro tende cada vez mais a um estilo de vida minimalista em que você possui
 Não é a toa que o método de organização da japonesa Marie Kondo e sua cultura do desapego a coisas das quais não precisamos e não nos trazem alegria, se tornou uma febre e fez tamanho sucesso nesses tempos. Em geral, as pessoas agora desejam ser mais práticas, ter uma vida mais leve e funcional.
 
 <iframe src="https://giphy.com/embed/3s6GaByTfXDk8RXKDh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-konmari-mariekondo-tidyingup-3s6GaByTfXDk8RXKDh"></a></p>
-
- 
 
 E essa mudança não é algo individual, já é notório que a colaboração é um bom meio de usufruir de coisas sem necessariamente possuí-las.
 
