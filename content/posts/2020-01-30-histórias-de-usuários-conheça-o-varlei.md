@@ -14,9 +14,7 @@ excerpt: >-
 
 ## Esse é o Varlei de São Paulo
 
-
-
-![](/images/uploads/1_redd0luoeltj0ivaiwsxoq.jpg)
+![null](/images/uploads/1_redd0luoeltj0ivaiwsxoq.jpg)
 
 Varlei desenvolve um trabalho muito legal voltado para educação autodirigida.
 
@@ -26,7 +24,7 @@ Em meados de 2015, quando ele teve mais contato com esse modelo de aprendizagem,
 
 > “Eu estava buscando o contato com pessoas que tinham conhecimento e tinham algo de que eu não dispunha. Eu lembro de ser muito clara a ideia de um site onde a moeda era a hora, era o tempo.”
 
-**_“Eu gostaria que mais gente fizesse parte da rede para aumentar a possibilidade de trocas porque eu acho uma plataforma riquíssima.”_**
+## **_“Eu gostaria que mais gente fizesse parte da rede para aumentar a possibilidade de trocas porque eu acho uma plataforma riquíssima.”_**
 
 O Varlei se cadastrou, deu uma olhada nas experiências que estavam disponíveis na plataforma e começou a listar todas as coisas que ele poderia oferecer.
 
@@ -36,11 +34,11 @@ Ele oferece muitas experiências diferentes na Beliive: escrever uma metáfora c
 
 > “Mas o que eu mais fiz até hoje foi cura rápida de fobias, eu lembro de uma moça que precisava viajar e tinha pavor de avião, ela me procurou e conseguiu ir. Ela até mandou mensagem depois falando que conseguiu viajar e tudo mais. Vários tipos de fobia, desde fobia de barata, tinha uma pessoa que tinha medo de água, — não no sentido de tomar banho, no sentido de piscina ou de mar. E tive casos de compulsão também, com técnicas que ajudam a parar de roer as unhas, por exemplo.”
 
-Varlei também recebeu ajudas valiosas na plataforma.
+**Além disso ele também recebeu ajudas valiosas na plataforma.**
 
 Ele estava gastando muita energia desenvolvendo um curso mas não entendia porque não conseguia alunos o suficiente para fechar turmas, até que resolveu solicitar ajuda para uma pessoa que oferecia consultoria em vendas na plataforma e descobriu que estava oferecendo o curso para o público errado.
 
-> “A partir daí eu deixei de gastar energia tentando desenvolver isso, e realmente, eu fazia um esforço absurdo para no final ter dez alunos que . praticamente nem pagavam o curso. Foi uma constatação muito positiva.”
+> **“A partir daí eu deixei de gastar energia tentando desenvolver isso, e realmente, eu fazia um esforço absurdo para no final ter dez alunos que . praticamente nem pagavam o curso. Foi uma constatação muito positiva.”**
 
 E Varlei pretende continuar trocando cada vez mais na plataforma.
 
