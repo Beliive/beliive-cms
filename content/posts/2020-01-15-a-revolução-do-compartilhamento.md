@@ -35,6 +35,10 @@ O futuro tende cada vez mais a um estilo de vida minimalista em que você possui
 
 Não é a toa que o método de organização da japonesa Marie Kondo e sua cultura do desapego a coisas das quais não precisamos e não nos trazem alegria, se tornou uma febre e fez tamanho sucesso nesses tempos. Em geral, as pessoas agora desejam ser mais práticas, ter uma vida mais leve e funcional.
 
+<iframe src="https://giphy.com/embed/3s6GaByTfXDk8RXKDh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-konmari-mariekondo-tidyingup-3s6GaByTfXDk8RXKDh"></a></p>
+
+ 
+
 E essa mudança não é algo individual, já é notório que a colaboração é um bom meio de usufruir de coisas sem necessariamente possuí-las.
 
 Ao contrário do que algumas pessoas imaginam, o conceito de economias compartilhadas não é algo tão novo — na verdade ele já existe desde os anos 1990, mas foi após os anos 2000, com o crescimento das redes sociais e desenvolvimento de novas plataformas, que esse conceito tomou novas formas e começou a se popularizar.
