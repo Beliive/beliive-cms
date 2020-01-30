@@ -40,11 +40,15 @@ Antes da troca, ela costuma conversar para entender um pouco a história do neg�
 
 A Ximene usa seu tempo livre para compartilhar seu conhecimento e aprender coisas novas.
 
-> “O tempo é algo muito precioso na vida da gente, quando você faz uma troca que sabe que vai ganhar alguma coisa positiva, acaba sendo um investimento muito interessante.”
+
+
+
+
+> ## “O tempo é algo muito precioso na vida da gente, quando você faz uma troca que sabe que vai ganhar alguma coisa positiva, acaba sendo um investimento muito interessante.”
 
 Para ela, com planejamento e organização o tempo pode ser uma ótima ferramenta para quebrar barreiras que nos limitam a realizar novas conquistas.
 
-**“Quando eu falo que eu não tenho tempo, na verdade eu estou falando que aquilo não é a minha prioridade, então, a partir do momento que eu estou convicta disso, eu sou obrigada a priorizar o que quero. Se eu quero aprender alguma coisa tenho que priorizar isso. Eu nunca posso dizer ‘eu não tenho tempo’, eu posso dizer ‘eu não tenho dinheiro’, e realmente eu posso não ter dinheiro para pagar alguma coisa, mas tempo, é uma questão de priorizar. É uma moeda muito democrática, às vezes é uma questão de organização que falta para a pessoa, e pode faltar para mim também.”**
+> “Quando eu falo que eu não tenho tempo, na verdade eu estou falando que aquilo não é a minha prioridade, então, a partir do momento que eu estou convicta disso, eu sou obrigada a priorizar o que quero. Se eu quero aprender alguma coisa tenho que priorizar isso. Eu nunca posso dizer ‘eu não tenho tempo’, eu posso dizer ‘eu não tenho dinheiro’, e realmente eu posso não ter dinheiro para pagar alguma coisa, mas tempo, é uma questão de priorizar. É uma moeda muito democrática, às vezes é uma questão de organização que falta para a pessoa, e pode faltar para mim também.”
 
 A colaboração é essencial para construirmos um futuro igualitário onde todas as pessoas possam ser valorizadas por suas habilidades e contribuições.
 
