@@ -3,6 +3,8 @@ template: SinglePost
 title: Como integrar e engajar um time remoto
 status: Published
 date: '2020-01-30'
+featuredImage: >-
+  /images/uploads/storyblocks-young-female-entrepreneur-freelancer-working-using-a-laptop-in-coworking-space_st4vhzoo-.jpg
 excerpt: >-
   Tem-se falado bastante sobre a importância do engajamento entre as equipes e
   todos os benefícios que isso traz para sua empresa. Mas desenvolver esse
