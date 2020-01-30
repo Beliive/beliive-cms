@@ -9,6 +9,8 @@ excerpt: >-
   outras que são tão interessantes. Eu tenho muito interesse que mais pessoas
   façam parte. Quanto maior a diversidade de trocas possíveis, mais legal fica o
   contato e as experiências que a gente tem.”
+categories:
+  - category: Historias de Usuários
 ---
 > “Ficamos presos às redes sociais mais famosas e acabamos não entrando em outras que são tão interessantes. Eu tenho muito interesse que mais pessoas façam parte. Quanto maior a diversidade de trocas possíveis, mais legal fica o contato e as experiências que a gente tem.”
 
