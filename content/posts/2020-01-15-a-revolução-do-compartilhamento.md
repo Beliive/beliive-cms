@@ -35,7 +35,9 @@ O futuro tende cada vez mais a um estilo de vida minimalista em que você possui
 
 Não é a toa que o método de organização da japonesa Marie Kondo e sua cultura do desapego a coisas das quais não precisamos e não nos trazem alegria, se tornou uma febre e fez tamanho sucesso nesses tempos. Em geral, as pessoas agora desejam ser mais práticas, ter uma vida mais leve e funcional.
 
-<iframe src="https://giphy.com/embed/3s6GaByTfXDk8RXKDh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-konmari-mariekondo-tidyingup-3s6GaByTfXDk8RXKDh">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3s6GaByTfXDk8RXKDh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-konmari-mariekondo-tidyingup-3s6GaByTfXDk8RXKDh"></a></p>
+
+ 
 
 E essa mudança não é algo individual, já é notório que a colaboração é um bom meio de usufruir de coisas sem necessariamente possuí-las.
 
