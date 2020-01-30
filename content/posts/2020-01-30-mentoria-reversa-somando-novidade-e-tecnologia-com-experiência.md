@@ -17,7 +17,7 @@ Serviços de mentoria são, atualmente, muito populares entre os profissionais d
 
 Essa ideia teria surgido em 1999, através de um projeto piloto da General Electric, que pretendia engajar cerca de 500 funcionários de diferentes idades, para que os mais novos ensinassem a utilização de ferramentas tecnológicas aos mais velhos.
 
-![](/images/uploads/19074.jpg)
+![null](/images/uploads/19074.jpg)
 
 O modelo deu muito certo e se popularizou. Hoje esses programas estão conquistando grandes empresas, fazendo com que profissionais mais experientes mantenham-se atualizados enquanto os mais novos entendem que também são importantes e contribuem para o crescimento da empresa.
 
@@ -33,9 +33,9 @@ Jovens profissionais trazem essa visão atualizada, ajudam a adaptar o tom de vo
 
 A ideia não é desprezar a experiência de quem já está no mercado há anos, e sim somar esse potencial para que ambos possam usufruir desta troca.
 
-Além disso, esse tipo de mentoria vai além da tecnologia: algumas empresas aplicam programas de mentoria reversa para aumentar a diversidade e promover esse debate, colocando profissionais PCD, mulheres, e outras minorias sociais, para melhorar não apenas sua atuação no mercado, como também o ambiente de trabalho e as relações entre os colaboradores.
+![null](/images/uploads/1_amicz0ef7l1k5uqmksum6g-1-.png)
 
-![](/images/uploads/1_amicz0ef7l1k5uqmksum6g-1-.png)
+Além disso, esse tipo de mentoria vai além da tecnologia: algumas empresas aplicam programas de mentoria reversa para aumentar a diversidade e promover esse debate, colocando profissionais PCD, mulheres, e outras minorias sociais, para melhorar não apenas sua atuação no mercado, como também o ambiente de trabalho e as relações entre os colaboradores.
 
 Se você deseja começar um programa de mentoria reversa na sua empresa, ou se já possui mas deseja facilitar esse câmbio de experiências entre os colaboradores, a [Beliive](beliive.com/for_companies) possui uma ferramenta que promove, através de créditos de tempo, a troca de experiências entre funcionários, podendo ser adaptada para programas de mentoria que atendam as necessidades da sua organização.
 
