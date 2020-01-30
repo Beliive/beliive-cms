@@ -26,11 +26,19 @@ Nos agarramos à zona de conforto por medo do desconhecido. Quando não sabemos 
 
 Pequenas mudanças podem transformar nossas vidas, e há muitos benefícios em fazer aquilo que não estamos acostumados, tais como viver novas experiências, desenvolver habilidades, aprender a lidar com o inesperado, criar empatia pelas outras pessoas e melhorar nossa qualidade de vida.
 
+
+
 ## “Zona de conforto” é uma redoma que nos afasta da realidade
 
 A internet é uma ferramenta maravilhosa para descobrirmos coisas novas, mas também pode nos isolar cada vez mais nessas bolhas.
 
 Redes sociais possuem algoritmos que apenas reforçam nossas ideias e maneira de pensar, ampliando um viés de confirmação que nos dá a ilusão de que estamos sempre certos e de que a maior parte das pessoas partilham dos nossos valores e visão de mundo.
+
+<iframe src="https://giphy.com/embed/1hMdWxlfKh13NOMRvP" width="480" height="475" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-advice-sweat-1hMdWxlfKh13NOMRvP"></a></p>
+
+
+
+
 
 ## Você não está seguro na zona de conforto
 
@@ -39,3 +47,7 @@ Quando nos fechamos também podemos nos conformar com uma situação ruim, pensa
 Não é possível prometer que ao sair da zona de conforto você descobrirá um mundo mágico e maravilhoso, a realidade pode não ser exatamente como sonhamos e o desconhecido é incerto, mas ao menos você estará lidando com as possibilidades do mundo real.
 
 Experimentar coisas diferentes irá te proporcionar um mundo de novas oportunidades.
+
+
+
+<iframe src="https://giphy.com/embed/2tMYOWRjFHveuOB6jg" width="480" height="464" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adventure-well-done-progress-2tMYOWRjFHveuOB6jg"></a></p>
