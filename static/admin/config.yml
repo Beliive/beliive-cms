@@ -201,11 +201,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
-  - name: author
-          label: Author
+  - name: "author"
+          label: "Author"
           editor:
             preview: false
-          folder: content/authors
+          folder: "content/authors"
           slug: "{{slug}}"
           create: true # Allow users to create new documents in this collection
           fields: # The fields each document in this collection have
@@ -214,6 +214,3 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Role, name: role, widget: string}
             - {label: Bio, name: bio, widget: string, required: false}
             - {label: Avatar, name: avatar, widget: image}
-
-      
-      
