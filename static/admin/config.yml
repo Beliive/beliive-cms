@@ -164,17 +164,17 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
           - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
           - {label: Noindex, name: noindex, widget: boolean, required: false}
-      # - label: "Author"
-      #   name: "Author"
-      #   widget: "object"
-      #   required: false
-      #   fields:
-      #     - label: "Author"
-      #       name: "Author"
-      #       widget: "relation"
-      #       collection: "Authors"
-      #       searchFields: ["title"]
-      #       valueField: "title"
+      - label: "Author"
+        name: "Author"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Author"
+            name: "Author"
+            widget: "relation"
+            collection: "Authors"
+            searchFields: ["title"]
+            valueField: "title"
 
   - name: postCategories
     label: Post Category
