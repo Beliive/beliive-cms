@@ -155,17 +155,17 @@ collections: # A list of collections the CMS should be able to edit
             collection: "postCategories"
             searchFields: ["title"]
             valueField: "title"
-      - label: "Author"
-        name: "Author"
-        widget: "object"
-        required: false
-        fields:
-          - label: "Author"
-            name: "Author"
-            widget: "relation"
-            collection: "Authors"
-            searchFields: ["title"]
-            valueField: "title"
+      # - label: "Author"
+      #   name: "Author"
+      #   widget: "object"
+      #   required: false
+      #   fields:
+      #     - label: "Author"
+      #       name: "Author"
+      #       widget: "relation"
+      #       collection: "Authors"
+      #       searchFields: ["title"]
+      #       valueField: "title"
       - label: "Meta"
         required: false
         name: "meta"
