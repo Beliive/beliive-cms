@@ -2,7 +2,7 @@
 template: SinglePost
 title: Como integrar e engajar um time remoto
 status: Published
-date: '2020-01-30'
+date: '2020-01-31'
 featuredImage: >-
   /images/uploads/storyblocks-young-female-entrepreneur-freelancer-working-using-a-laptop-in-coworking-space_st4vhzoo-.jpg
 excerpt: >-
