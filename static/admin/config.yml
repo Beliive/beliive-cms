@@ -210,7 +210,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: Template, name: template, widget: hidden, default: BlogIndex}
-      - {label: Name, name: name, widget: string}
+      - {label: Title, name: title, widget: string}
       - {label: Role, name: role, widget: string}
       - {label: Bio, name: bio, widget: string, required: false}
       - {label: Avatar, name: avatar, widget: image}
