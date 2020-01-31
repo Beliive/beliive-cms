@@ -27,7 +27,7 @@ Ainda assim, pessoas romantizam o trabalho excessivo para obter sucesso profissi
 
 <iframe src="https://giphy.com/embed/l46CAeMR1XVgrpY5O" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yosub-l46CAeMR1XVgrpY5O"></a></p>
 
-Personagens workaholic são maravilhosamente retratados em filmes e livros biográficos, nos contando histórias de pessoas que conquistaram o sucesso e nos fazendo acreditar que se não “chegamos lá” é porque ainda não nos sacrificamos o bastante.
+Personagens workaholics são maravilhosamente retratados em filmes e livros biográficos, nos contando histórias de pessoas que conquistaram o sucesso e nos fazendo acreditar que se não “chegamos lá” é porque ainda não nos sacrificamos o bastante.
 
 # Enquanto eles dormem…durma também!
 
