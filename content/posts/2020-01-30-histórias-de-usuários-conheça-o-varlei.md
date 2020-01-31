@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'Histórias de Usuários: conheça o Varlei'
 status: Published
-date: '2020-01-30'
+date: '2020-01-29'
 featuredImage: /images/uploads/frame-11.jpg
 excerpt: >-
   “Ficamos presos às redes sociais mais famosas e acabamos não entrando em
