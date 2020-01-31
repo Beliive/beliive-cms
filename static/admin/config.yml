@@ -166,7 +166,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Noindex, name: noindex, widget: boolean, required: false}
       - label: "Author"
         name: "Author"
-        widget: "object"
+        widget: "list"
         required: false
         fields:
           - label: "Author"
