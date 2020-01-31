@@ -211,7 +211,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
-  - name: "author"
+  - name: "authors"
     label: "Author"
     editor:
       preview: false
