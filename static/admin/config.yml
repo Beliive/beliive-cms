@@ -155,6 +155,15 @@ collections: # A list of collections the CMS should be able to edit
             collection: "postCategories"
             searchFields: ["title"]
             valueField: "title"
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
       # - label: "Author"
       #   name: "Author"
       #   widget: "object"
@@ -166,16 +175,6 @@ collections: # A list of collections the CMS should be able to edit
       #       collection: "Authors"
       #       searchFields: ["title"]
       #       valueField: "title"
-      - label: "Meta"
-        required: false
-        name: "meta"
-        widget: "object"
-        fields:
-          - {label: Title, name: title, widget: string, required: false}
-          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
-          - {label: Noindex, name: noindex, widget: boolean, required: false}
-
 
   - name: postCategories
     label: Post Category
@@ -212,7 +211,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
-  - name: "authors"
+  - name: "author"
     label: "Author"
     editor:
       preview: false
