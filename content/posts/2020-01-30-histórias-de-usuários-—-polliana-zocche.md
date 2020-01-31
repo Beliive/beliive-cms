@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Histórias de Usuários — Polliana Zocche
+title: 'Histórias de Usuários : Polliana Zocche'
 status: Published
 date: '2020-01-30'
 featuredImage: /images/uploads/frame-6-1-.png
