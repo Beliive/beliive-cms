@@ -3,10 +3,13 @@ template: SinglePost
 title: Embaixadores podem promover a mudança na cultura da sua empresa
 status: Published
 date: '2020-01-31'
+featuredImage: /images/uploads/3929.jpg
 excerpt: >-
   Através de programas de embaixadores internos é possível potencializar o
   engajamento dos colaboradores e promover culturas mais igualitárias e
   colaborativas dentro de empresas.
+categories:
+  - category: Empresas e Organizações
 ---
 Através de programas de embaixadores internos é possível potencializar o engajamento dos colaboradores e promover culturas mais igualitárias e colaborativas dentro de empresas.
 
