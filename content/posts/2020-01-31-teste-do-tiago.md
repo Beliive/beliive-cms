@@ -7,7 +7,7 @@ featuredImage: /images/uploads/card-og.png
 excerpt: Teste do Tiago
 categories:
   - category: Comunidades
-Author:
+Authors:
   - Author: Tiago Sciencia
 ---
 Hello
