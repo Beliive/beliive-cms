@@ -19,6 +19,7 @@ export const SinglePostTemplate = ({
   nextPostURL,
   prevPostURL,
   categories = [],
+  authors = [],
   disqusConfig
 }) => (
   <article
@@ -78,6 +79,21 @@ export const SinglePostTemplate = ({
           <Content source={body} />
         </div>
 
+        <div>
+          {authors && (
+            <Fragment>
+              <span>|</span>
+              {authors.map((aut, index) => (
+                <span key={aut.author} className="SinglePost--Meta--Category">
+                  {aut.author}
+                  {/* Add a comma on all but last category */}
+                  {index !== authors.length - 1 ? ',' : ''}
+                </span>
+              ))}
+            </Fragment>
+          )}
+        </div>
+
         <div className="SinglePost--Pagination">
           {prevPostURL && (
             <Link
@@ -96,7 +112,9 @@ export const SinglePostTemplate = ({
             </Link>
           )}
         </div>
+
         <br/><br/>
+
         <div>
           <DiscussionEmbed {...disqusConfig} />
         </div>
@@ -143,6 +161,9 @@ export const pageQuery = graphql`
         date
         categories {
           category
+        }
+        authors {
+          author
         }
         featuredImage {
           ...FluidImage
