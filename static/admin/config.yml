@@ -165,14 +165,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
           - {label: Noindex, name: noindex, widget: boolean, required: false}
       - label: "Authors"
-        name: "Authors"
+        name: "authors"
         widget: "list"
         required: false
         fields:
           - label: "Author"
-            name: "Author"
+            name: "author"
             widget: "relation"
-            collection: "authors"
+            collection: "postAuthors"
             searchFields: ["title"]
             valueField: "title"
 
@@ -211,11 +211,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Meta / Scripts, name: headerScripts, widget: text, required: false}
 
 
-  - name: "authors"
-    label: "Author"
+  - name: "postAuthors"
+    label: "Post Author"
     editor:
       preview: false
-    folder: "content/authors"
+    folder: "content/postAuthors"
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have

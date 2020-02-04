@@ -161,11 +161,11 @@ export const pageQuery = graphql`
         categories {
           category
         }
-        featuredImage {
-          ...FluidImage
-        }
         authors {
           author
+        }
+        featuredImage {
+          ...FluidImage
         }
       }
     }
