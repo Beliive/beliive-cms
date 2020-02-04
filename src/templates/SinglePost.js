@@ -80,18 +80,17 @@ export const SinglePostTemplate = ({
         </div>
 
         <div>
-          {authors && (
+          {/* {authors && (
             <Fragment>
               <span>|</span>
               {authors.map((aut, index) => (
                 <span key={aut.author} className="SinglePost--Meta--Category">
                   {aut.author}
-                  {/* Add a comma on all but last category */}
                   {index !== authors.length - 1 ? ',' : ''}
                 </span>
               ))}
             </Fragment>
-          )}
+          )} */}
         </div>
 
         <div className="SinglePost--Pagination">
@@ -162,11 +161,11 @@ export const pageQuery = graphql`
         categories {
           category
         }
-        authors {
-          author
-        }
         featuredImage {
           ...FluidImage
+        }
+        authors {
+          author
         }
       }
     }
