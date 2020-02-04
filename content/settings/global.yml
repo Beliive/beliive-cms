@@ -1,5 +1,5 @@
 siteTitle: Beliive blog
-siteUrl: 'https://blog-dev-beliive.netlify.com/' #'https://beliive-cms.netlify.com'
+siteUrl: https://beliive-cms.netlify.com'
 siteDescription: Beliive in the power of people.
 socialMediaCard:
   image: images/uploads/beliive-share.png
