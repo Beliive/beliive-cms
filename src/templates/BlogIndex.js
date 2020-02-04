@@ -107,9 +107,6 @@ export const pageQuery = graphql`
             categories {
               category
             }
-            authors {
-              author
-            }
             featuredImage {
               ...SmallImage
             }
