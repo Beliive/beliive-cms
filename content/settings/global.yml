@@ -1,6 +1,18 @@
 siteTitle: Beliive blog
-siteUrl: https://beliive-cms.netlify.com'
+siteUrl: 'https://beliive-cms.netlify.com'
 siteDescription: Beliive in the power of people.
 socialMediaCard:
   image: images/uploads/beliive-share.png
-headerScripts: <!-- Add your analytics scripts / verification meta here -->
+headerScripts: >-
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-133756576-5"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133756576-5');
+  </script>
