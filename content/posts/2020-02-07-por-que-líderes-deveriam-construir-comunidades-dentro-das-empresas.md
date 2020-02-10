@@ -8,6 +8,8 @@ excerpt: |2
    Como o sentimento de pertencimento pode inspirar e motivar os colaboradores 
 categories:
   - category: Empresas e Organizações
+authors:
+  - author: Juliana Spinardi
 ---
 ** Como o sentimento de pertencimento pode inspirar e motivar os colaboradores 
 **
