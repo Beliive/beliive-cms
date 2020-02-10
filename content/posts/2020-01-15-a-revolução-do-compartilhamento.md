@@ -10,6 +10,8 @@ excerpt: >-
   através da diminuição do consumo e o não acúmulo de bens.
 categories:
   - category: Colaboração para organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Economia compartilhada — ou consumo colaborativo — é uma tendência que pode ajudar o planeta a resistir aos impactos causados pela humanidade até agora, através da diminuição do consumo e o não acúmulo de bens.
 
