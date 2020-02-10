@@ -11,6 +11,8 @@ excerpt: >
   temos à disposição sem nenhum custo.
 categories:
   - category: Desenvolvimento Pessoal
+authors:
+  - author: Roberta Fabruzzi
 ---
 > “É muito claro que o recurso mais valioso que todos temos é o tempo.” Steve Jobs
 
