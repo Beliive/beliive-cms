@@ -9,6 +9,8 @@ excerpt: >
   de sua zona de conforto e se conhecer melhor.
 categories:
   - category: Histórias de Usuários
+authors:
+  - author: Roberta Fabruzzi
 ---
 Cadastrar experiências para oferecer na plataforma é uma ótima maneira de sair de sua zona de conforto e se conhecer melhor.
 
