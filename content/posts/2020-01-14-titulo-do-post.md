@@ -13,6 +13,8 @@ categories:
 meta:
   description: ''
   title: ''
+authors:
+  - author: Roberta Fabruzzi
 ---
 A força de uma comunidade está na paixão e energia que seus membros despendem para alcançar um mesmo propósito ou para concretizar suas afinidades, partilhando experiências.
 
