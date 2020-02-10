@@ -11,6 +11,8 @@ excerpt: >
   tinha muita experiência em algo que eu estava precisando.”
 categories:
   - category: Histórias de Usuários
+authors:
+  - author: Roberta Fabruzzi
 ---
 > "Eu tive esse contato com a Kátia que foi uma das pessoas de quem eu recebi, naquele momento me ajudou muito. São pessoas por quem tenho bastante carinho, porque eram momentos bem complicados em que eu pude conversar com alguém que tinha muita experiência em algo que eu estava precisando.”
 
