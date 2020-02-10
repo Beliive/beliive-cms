@@ -10,6 +10,8 @@ excerpt: >-
   compreendem sua seriedade e consequências.
 categories:
   - category: Desenvolvimento Pessoal
+authors:
+  - author: Roberta Fabruzzi
 ---
 A Síndrome de burnout foi oficializada como doença crônica e agora faz parte da lista da Organização Mundial de Saúde (OMS), apesar disso, muitos ainda não compreendem sua seriedade e consequências.
 
