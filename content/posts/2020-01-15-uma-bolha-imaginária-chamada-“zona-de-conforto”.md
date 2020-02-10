@@ -9,6 +9,8 @@ excerpt: >-
   valores, encarar o desconhecido e principalmente, por medo de falhar.
 categories:
   - category: Desenvolvimento Pessoal
+authors:
+  - author: Roberta Fabruzzi
 ---
 Muitas vezes nos fechamos para o mundo, por medo de confrontar nossos próprios valores, encarar o desconhecido e principalmente, por medo de falhar.
 
