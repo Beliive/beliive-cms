@@ -14,6 +14,8 @@ meta:
     A Cláudia Sampaio descobriu na Beliive que possui um talento que nem
     imaginava e que pode ajudar muitas pessoas! Fazer e melhorar currículos
   title: Histórias de usuários
+authors:
+  - author: Roberta Fabruzzi
 ---
 A Cláudia Sampaio descobriu na Beliive que possui um talento que nem imaginava e que pode ajudar muitas pessoas! Fazer e melhorar currículos!
 
