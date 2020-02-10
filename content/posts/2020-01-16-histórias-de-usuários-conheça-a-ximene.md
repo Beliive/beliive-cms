@@ -9,6 +9,8 @@ excerpt: >-
   500 reais para fazer um curso de Marketing Digital, mas eu tenho tempo.”
 categories:
   - category: Histórias de Usuários
+authors:
+  - author: Roberta Fabruzzi
 ---
 > “Às vezes você não pode mudar a sua situação agora. Pode ser que eu não tenha 500 reais para fazer um curso de Marketing Digital, mas eu tenho tempo.”
 
