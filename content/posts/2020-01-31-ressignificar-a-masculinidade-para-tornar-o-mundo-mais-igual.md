@@ -11,6 +11,8 @@ excerpt: >-
   individualidade e diversidade entre as pessoas.
 categories:
   - category: Desenvolvimento Pessoal
+authors:
+  - author: Roberta Fabruzzi
 ---
 Um novo entendimento do que é masculinidade está surgindo, como parte de um movimento igualitário em direitos, mas que busca compreender e valorizar a individualidade e diversidade entre as pessoas.
 
