@@ -10,6 +10,8 @@ excerpt: >-
   colaborativas dentro de empresas.
 categories:
   - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Através de programas de embaixadores internos é possível potencializar o engajamento dos colaboradores e promover culturas mais igualitárias e colaborativas dentro de empresas.
 
