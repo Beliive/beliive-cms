@@ -9,6 +9,10 @@ excerpt: >-
   parte humana de trocar e se relacionar, nunca será substituída por um robô.
   Então a plataforma junta o virtual com o humano, inclusive agora como uma
   ferramenta de RH, isso é muito bacana.”
+categories:
+  - category: Histórias de Usuários
+authors:
+  - author: Roberta Fabruzzi
 ---
 > “Com a internet e o Google a gente pode procurar o que quiser, mas acho que a parte humana de trocar e se relacionar, nunca será substituída por um robô. Então a plataforma junta o virtual com o humano, inclusive agora como uma ferramenta de RH, isso é muito bacana.”
 >
