@@ -12,6 +12,8 @@ categories:
   - category: Desenvolvimento Pessoal
   - category: Empresas e Organizações
   - category: Comunidades
+authors:
+  - author: Roberta Fabruzzi
 ---
 Já conhece a comundiade criada pela Beliive e o Mundo RH para troca de serviços e experiências que utiliza o tempo como moeda? Essa comunidade é virtual e gratuita, completamente voltada para profissionais de RH.
 
