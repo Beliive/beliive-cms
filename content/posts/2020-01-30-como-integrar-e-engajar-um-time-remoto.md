@@ -13,6 +13,8 @@ excerpt: >-
   com fusos horários completamente diferentes.
 categories:
   - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Tem-se falado bastante sobre a importância do engajamento entre as equipes e todos os benefícios que isso traz para sua empresa. Mas desenvolver esse engajamento pode parecer um desafio para muitos líderes — imagine então em uma equipe que trabalha completamente remota, com pessoas em lugares distantes e com fusos horários completamente diferentes.
 
