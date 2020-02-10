@@ -11,6 +11,8 @@ excerpt: >
   mudar e reorganizar neurônios de acordo com as mudanças.
 categories:
   - category: Desenvolvimento Pessoal
+authors:
+  - author: Roberta Fabruzzi
 ---
 A antiga crença de que devemos aprender tudo o que podemos enquanto somos jovens, e de que perdemos essa capacidade conforme vamos envelhecendo caiu por terra graças à descoberta da neuroplasticidade — capacidade do cérebro em mudar e reorganizar neurônios de acordo com as mudanças.
 
