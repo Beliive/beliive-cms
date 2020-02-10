@@ -10,6 +10,8 @@ excerpt: >-
   mentoria dos mais novos e iniciantes.
 categories:
   - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Programas de mentoria reversa estão ganhando cada vez mais espaço entre empresas inovadoras, colocando seus diretores, CEOs e líderes para receberem mentoria dos mais novos e iniciantes.
 
