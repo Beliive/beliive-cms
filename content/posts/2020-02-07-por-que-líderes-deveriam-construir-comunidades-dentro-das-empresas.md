@@ -53,4 +53,6 @@ Muito além de colegas de trabalho, essas pessoas terão a oportunidade de troca
 
 A empresa então agregou um valor muito maior do que salários e benefícios, mas agora os colaboradores têm a oportunidade de **aprender e trocar ideias** com outras pessoas. Algo que não se encontra facilmente no mercado de trabalho. Prova disso sãos os dados da Docebo que apontam que mais de 50% dos Millennials estão deixando seus empregos atuais por falta de aprendizado e trocas interpessoais. 
 
+![](/images/uploads/linkedin-us-1-.jpg)
+
 As pessoas querem passar seu tempo dentro de empresas que se preocupam com elas, que enxergam seres humanos e sua magnífica capacidade de **trocar, sentir e aprender** uns com os outros. Por isso, o futuro é a construção de comunidades fortes que engajam e acolhem.
