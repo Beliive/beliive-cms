@@ -17,13 +17,11 @@ Reconhecer e entender qual é a sua cultura e como ela funciona é o primeiro pa
 
 ![null](/images/uploads/810-7169-497.jpg)
 
-Conversamos com o executivo de RH Gustavo Mançanares Leme, que é referência no assunto transformações culturais e turn around de negócios.
+**Conversamos com o executivo de RH Gustavo Mançanares Leme, que é referência no assunto transformações culturais e turn around de negócios.**
 
-_Ouça a conversa na íntegra em nosso podcast: 
-_
+_Ouça a conversa na íntegra em nosso podcast: _
 
-_<iframe src="https://open.spotify.com/embed-podcast/episode/6DWqtvjVvy9K1a7C22MzHY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>_**
-**
+<iframe src="https://open.spotify.com/embed-podcast/episode/6DWqtvjVvy9K1a7C22MzHY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media">
 
 > “Eu sempre trago uma analogia da cultura com o nosso jeito de viver dentro da nossa casa, temos nossos hábitos, os nossos símbolos. (...) Quando a gente fala de cultura, nada mais é do que essa simbologia, rituais e as figuras que eu chamo de ‘heróis’ e a literatura também diz heróis, que solidifica os hábitos e o ‘jeitão’ de ser de cada organização.”
 
@@ -35,7 +33,7 @@ Empresas são estimuladas e pressionadas a transformarem suas culturas. Mas como
 
 A primeira coisa é compreender o contexto no qual a organização está inserida. Dentro desse contexto um dos fatores que mais influenciam a cultura é o regional. Isso porque regiões diferentes já são constituídas de fortes valores culturais que fazem parte da vida das pessoas.
 
-> “Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  No Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”
+**_“Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”_**
 
 ![null](/images/uploads/linkedin-dados-us.jpg)
 
@@ -43,15 +41,15 @@ A primeira coisa é compreender o contexto no qual a organização está inserid
 
 Mesmo dentro do Brasil, diferenças locais podem interferir na cultura de uma empresa. Quando você coloca o ser humano no centro daquilo que constrói - tanto seus colaboradores quanto seus consumidores - essas diferenças devem ser levadas em consideração.
 
-O vídeo do Porta dos Fundos “Sotaques” brinca bastante com as diferenças que existem na linguagem dentro do Brasil e também em Portugal, mas essas diferenças vão além da linguagem, elas estão na gastronomia, hábitos, crenças e muito mais.
+**O vídeo do Porta dos Fundos “Sotaques” brinca bastante com as diferenças que existem na linguagem dentro do Brasil e também em Portugal, mas essas diferenças vão além da linguagem, elas estão na gastronomia, hábitos, crenças e muito mais.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GVTQO9czBsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Para Gustavo Leme é importante que a empresa esteja atenta a essas diferenças quando estabelece uma cultura nacional.
 
-“Eu defendo que talvez algumas empresas que são grandes nacionalmente tenham mais de uma política de RH. Quando você fala em locomoção, em São Paulo é um problema, o home office pode ajudar. Mas você podem ter situações, que home office pode até atrapalhar. São contextos bem diferentes.
-
-E aí quando a gente fala de cultura, é possível implementar uma cultura só? Sim no que os une, mas existem coisas que são regionais.”
+> “Eu defendo que talvez algumas empresas que são grandes nacionalmente tenham mais de uma política de RH. Quando você fala em locomoção, em São Paulo é um problema, o home office pode ajudar. Mas você podem ter situações, que home office pode até atrapalhar. São contextos bem diferentes.
+>
+> E aí quando a gente fala de cultura, é possível implementar uma cultura só? Sim no que os une, mas existem coisas que são regionais.”
 
 Além das particularidades locais, é preciso estar atento às novas ferramentas, tecnologias e principalmente às mudanças de comportamento das pessoas. 
 
@@ -132,7 +130,7 @@ Também é essencial Incluir colaboradores no processo, explicar a necessidade d
 
 Testar pilotos para descobrir o que funciona, buscar novas tendências, descartar o que deu errado, isso tudo também faz parte do processo!
 
-_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
-**_
+**_“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
+_**
 
 Albert Einstein
