@@ -22,7 +22,7 @@ Conversamos com o executivo de RH Gustavo Mançanares Leme, que é referência n
 _Ouça a conversa na íntegra em nosso podcast: 
 _
 
-**PODCAST PODCAST PODCAST
+_<iframe src="https://open.spotify.com/embed-podcast/episode/6DWqtvjVvy9K1a7C22MzHY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>_**
 **
 
 > “Eu sempre trago uma analogia da cultura com o nosso jeito de viver dentro da nossa casa, temos nossos hábitos, os nossos símbolos. (...) Quando a gente fala de cultura, nada mais é do que essa simbologia, rituais e as figuras que eu chamo de ‘heróis’ e a literatura também diz heróis, que solidifica os hábitos e o ‘jeitão’ de ser de cada organização.”
@@ -118,11 +118,11 @@ Para Gustavo Lemes, esse processo se inicia durante a seleção de pessoas e tam
 
 ## Comunicar e engajar
 
-A comunicação é outro ponto importante para apresentar o processo de mudança e fazer com que pessoas entendam e se alinhem com a cultura da empresa.
+A comunicação é outro ponto importante para apresentar o processo de mudança e fazer com que pessoas entendam e se alinhem com a cultura da empresa.
 
-> “Isso é uma tendência e a uma necessidade, quando você envolve principalmente o consumidor para pensar em projetos de produtos naturalmente a adesão da venda do produto é maior porque você escutou quem compra, e às vezes a gente não faz isso dentro das empresas.
+> “Isso é uma tendência e a uma necessidade, quando você envolve principalmente o consumidor para pensar em projetos de produtos naturalmente a adesão da venda do produto é maior porque você escutou quem compra, e às vezes a gente não faz isso dentro das empresas.
 >
-> Então a partir do momento que você tem processo de construção conjunta - não só em RH mas em todas as áreas - e uma pessoa se sente participado, ela se engaja com aquilo, ela defende porque foi envolvida.”
+> Então a partir do momento que você tem processo de construção conjunta - não só em RH mas em todas as áreas - e uma pessoa se sente participado, ela se engaja com aquilo, ela defende porque foi envolvida.”
 
 ## Recapitulando
 
@@ -132,8 +132,7 @@ Também é essencial Incluir colaboradores no processo, explicar a necessidade d
 
 Testar pilotos para descobrir o que funciona, buscar novas tendências, descartar o que deu errado, isso tudo também faz parte do processo!
 
-
-
-**_“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”._**
+_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
+**_
 
 Albert Einstein
