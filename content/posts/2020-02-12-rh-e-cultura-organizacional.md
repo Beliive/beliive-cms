@@ -33,7 +33,7 @@ Empresas são estimuladas e pressionadas a transformarem suas culturas. Mas como
 
 A primeira coisa é compreender o contexto no qual a organização está inserida. Dentro desse contexto um dos fatores que mais influenciam a cultura é o regional. Isso porque regiões diferentes já são constituídas de fortes valores culturais que fazem parte da vida das pessoas.
 
-**_“Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”_**
+_**“Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”**_
 
 ![null](/images/uploads/linkedin-dados-us.jpg)
 
@@ -55,9 +55,7 @@ Além das particularidades locais, é preciso estar atento às novas ferramentas
 
 > “Nesse novo modelo onde os contratos de trabalho deixam de ser CLT, passam a ser contratos mais flexíveis - a própria lei trabalhista se reformou recentemente - e você não ter ambientes comuns, então gerir cultura vai ser mais complexo ainda.
 >
-> Você pode gerir uma pessoa que não é seu funcionário, mas que responde pela empresa na unidade de negócios que você gerencia, você nunca o viu, ele não fica no seu país, como eu reforcei - não é funcionário, não tem hábitos comuns de quem está dentro da organização, e você vai ter que falar de cultura, que cultura é essa?
->
-> Então acho que a questão cultural quando a gente fala de futuro do trabalho, ela vai ser ainda mais complexa.”
+> Você pode gerir uma pessoa que não é seu funcionário, mas que responde pela empresa na unidade de negócios que você gerencia, você nunca o viu, ele não fica no seu país, como eu reforcei - não é funcionário, não tem hábitos comuns de quem está dentro da organização, e você vai ter que falar de cultura, que cultura é essa.”
 
 ## Transformando a cultura da empresa
 
@@ -130,7 +128,7 @@ Também é essencial Incluir colaboradores no processo, explicar a necessidade d
 
 Testar pilotos para descobrir o que funciona, buscar novas tendências, descartar o que deu errado, isso tudo também faz parte do processo!
 
-**_“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
-_**
+_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
+**_
 
 Albert Einstein
