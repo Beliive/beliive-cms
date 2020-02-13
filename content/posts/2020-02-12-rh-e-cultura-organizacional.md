@@ -7,6 +7,10 @@ featuredImage: /images/uploads/91042a.jpg
 excerpt: |-
 
   Como transformar a cultura da sua empresa
+categories:
+  - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 **Como transformar a cultura da sua empresa**
 
