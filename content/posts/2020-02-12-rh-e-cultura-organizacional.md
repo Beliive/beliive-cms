@@ -123,7 +123,6 @@ Também é essencial Incluir colaboradores no processo, explicar a necessidade d
 
 Testar pilotos para descobrir o que funciona, buscar novas tendências, descartar o que deu errado, isso tudo também faz parte do processo!
 
-_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
-**_
+_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.**_
 
 Albert Einstein
