@@ -79,9 +79,9 @@ Tais inovações devem realmente fazer sentido dentro do movimento de mudança d
 
 É necessário trazer mudanças que se conectem com a cultura da empresa e que façam sentido para as pessoas que lá trabalham, testar e ver como elas correspondem às necessidades de cada área.
 
-“Você pode ser simples, olhar a tendência, mas também olhar a sua cultura e ir adaptando.
-
-Essa questão de ambiente eu acho que também tem a ver com a idade e o momento de vida das pessoas.”
+> “Você pode ser simples, olhar a tendência, mas também olhar a sua cultura e ir adaptando.
+>
+> Essa questão de ambiente eu acho que também tem a ver com a idade e o momento de vida das pessoas.”
 
 O RH precisa trabalhar sua cultura também, ser o exemplo, investir em sua própria estrutura.
 
@@ -89,9 +89,7 @@ Com tantas mudanças no mercado, departamentos de Recursos Humanos vão muito al
 
 Isso expandiu o setor a abriu portas para profissionais diversificados possam agregar novas características e diferentes conhecimentos.
 
-“Abre espaço também para outras formações, Engenheiros, publicitários, enfim, profissionais de saúde, sentando em cadeiras executivas de RH, trazendo conhecimento de outras áreas e de outras formações. antes você via o RH era o contador que era mais folha de pagamento, o administrador que estava perdido e você tinha psicólogo que era recrutamento e seleção e depois foi avançando para avaliação de desempenho, e análise de perfil.
-
-Hoje você pode ter um RH mais heterogéneo, não precisa ser nem psicólogo, nem administrador  e nem contador para trabalhar em RH. Você pode vir de qualquer área, tanto que eu, na minha carreira, tive mais influência de ferramentas de marketing do que ferramenta de RH para gerir pessoas. Por que disso? Porque o marketing tem que entender comportamento, e tem que entender comportamento do mercado, se eu entendo o comportamento de mercado então eu não posso entender o comportamento humano? Através das mesmas tendências e ferramentas. “
+> “Hoje você pode ter um RH mais heterogéneo, não precisa ser nem psicólogo, nem administrador  e nem contador para trabalhar em RH. Você pode vir de qualquer área, tanto que eu, na minha carreira, tive mais influência de ferramentas de marketing do que ferramenta de RH para gerir pessoas. Por que disso? Porque o marketing tem que entender comportamento, e tem que entender comportamento do mercado, se eu entendo o comportamento de mercado então eu não posso entender o comportamento humano? Através das mesmas tendências e ferramentas.“
 
 Mas como engajar os funcionários e trazê-los para dentro da proposta de nova cultura da empresa?
 
