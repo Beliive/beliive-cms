@@ -33,7 +33,7 @@ Empresas são estimuladas e pressionadas a transformarem suas culturas. Mas como
 
 A primeira coisa é compreender o contexto no qual a organização está inserida. Dentro desse contexto um dos fatores que mais influenciam a cultura é o regional. Isso porque regiões diferentes já são constituídas de fortes valores culturais que fazem parte da vida das pessoas.
 
-_**“Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”**_
+**_“Essa base cultural tem a ver também com o local e com a história de quem construiu as empresas.  Brasil existem pesquisas que falam que mais de 90% das empresas são familiares.”_**
 
 ![null](/images/uploads/linkedin-dados-us.jpg)
 
@@ -124,7 +124,7 @@ Também é essencial Incluir colaboradores no processo, explicar a necessidade d
 
 Testar pilotos para descobrir o que funciona, buscar novas tendências, descartar o que deu errado, isso tudo também faz parte do processo!
 
-_**“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
-**_
+**_“O mundo como o criamos é um processo do nosso pensamento. Não pode ser mudado sem mudarmos o nosso pensamento”.
+_**
 
 Albert Einstein
