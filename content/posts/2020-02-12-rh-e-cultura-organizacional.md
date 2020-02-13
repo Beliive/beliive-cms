@@ -8,8 +8,7 @@ excerpt: |-
 
   Como transformar a cultura da sua empresa
 ---
-**Como transformar a cultura da sua empresa
-**
+**Como transformar a cultura da sua empresa**
 
 Toda empresa possui uma cultura formada pelo modo como pessoas lidam com as circunstâncias e adversidades diárias, através das relações criadas, dos processos estabelecidos e do modelo de liderança. Tudo isso é parte da cultura organizacional.
 
