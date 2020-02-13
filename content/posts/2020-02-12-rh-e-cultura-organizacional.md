@@ -19,7 +19,7 @@ Reconhecer e entender qual é a sua cultura e como ela funciona é o primeiro pa
 
 **Conversamos com o executivo de RH Gustavo Mançanares Leme, que é referência no assunto transformações culturais e turn around de negócios.**
 
-_Ouça a conversa na íntegra em nosso podcast: _
+_Ouça a conversa na íntegra em nosso podcast:_
 
 _<iframe src="https://open.spotify.com/embed-podcast/episode/6unYUde2ezy0EXPPu7VKVX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>_
 
