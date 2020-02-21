@@ -4,10 +4,14 @@ title: Diversidade e o Futuro do Trabalho
 status: Published
 date: '2020-02-21'
 featuredImage: /images/uploads/wm2a4401-619-1-1-.jpg
-excerpt: >+
+excerpt: >
   Temos falado muito sobre as transformações pelas quais passamos enquanto
   sociedade e mercado de trabalho, e sobre a necessidade que empresas têm de
   adaptar e trabalhar suas culturas dentro dessa nova perspectiva.
+categories:
+  - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Temos falado muito sobre as transformações pelas quais passamos enquanto sociedade e mercado de trabalho, e sobre a necessidade que empresas têm de adaptar e trabalhar suas culturas dentro dessa nova perspectiva.
 
