@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Diversidade e o Futuro do Trabalho
-status: Featured
+status: Draft
 date: '2020-02-21'
 featuredImage: /images/uploads/wm2a4401-619-1-1-.jpg
 excerpt: >
