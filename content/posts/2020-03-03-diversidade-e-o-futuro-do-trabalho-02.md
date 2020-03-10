@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Diversidade e o Futuro do Trabalho 02
+title: Diversidade e o Futuro do Trabalho
 status: Draft
 date: '2020-03-03'
 featuredImage: /images/uploads/wm2a4401-619-1-1-.jpg
@@ -8,10 +8,14 @@ excerpt: >-
   Temos falado muito sobre as transformações pelas quais passamos enquanto
   sociedade e mercado de trabalho, e sobre a necessidade que empresas têm de
   adaptar e trabalhar suas culturas dentro dessa nova perspectiva.
+categories:
+  - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 Temos falado muito sobre as transformações pelas quais passamos enquanto sociedade e mercado de trabalho, e sobre a necessidade que empresas têm de adaptar e trabalhar suas culturas dentro dessa nova perspectiva.
 
-![](/images/uploads/img_3901-1-304-1-1-.jpg)
+![null](/images/uploads/img_3901-1-304-1-1-.jpg)
 
 Muitas dessas transformações acontecem em consequência da velocidade com que desenvolvem-se novas ferramentas e tecnologias, mas algumas vezes empresas podem se prender nos aspectos tecnológicos e esquecer de que toda essa tecnologia é desenvolvida para servir ao ser humano, e não o contrário. Relembrar as organizações e seus gestores tem sido parte do desafio do RH e seu trabalho com metodologias que utilizam a tecnologia como aliado para colocar o ser humano no centro, entender quem são as pessoas que compõem uma organização e permitir que elas possam expressar suas individualidades e ser quem realmente são. 
 
@@ -20,7 +24,9 @@ Muitas dessas transformações acontecem em consequência da velocidade com que 
 
 Entrevistamos a Sabrina Vasconcellos, especialista em people analytics, que fala sobre a metodologia de trabalhar com dados e analisá-los para potencializar o trabalho do RH.
 
-OUÇA O PODCAST NA ÍNTEGRA
+_Ouça o episódio na íntegra:_
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5fBrm8DIkSqC2OY2Ys5rVd" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Sabrina explica que People Analytics é uma metodologia e não uma ferramenta - como muitos confundem - que nos proporciona um estudo muito mais aprofundado das pessoas.
 
@@ -34,8 +40,8 @@ Dados sobre recrutamento e seleção, desenvolvimento, produtividade e turnover 
 
 ## Utilizando a tecnologia para trazer diversidade
 
-_**“O mercado é diverso, se queremos ser completos, precisamos falar com esse mercado que é diverso.”
-**_
+**_“O mercado é diverso, se queremos ser completos, precisamos falar com esse mercado que é diverso.”
+_**
 
 Como o executivo de RH Gustavo Leme falou em sua [entrevista ](https://blog.beliive.com/posts/rh-e-cultura-organizacional/)para nosso primeiro podcast aqui da Beliive, _“Uma empresa não é feita de gente parecida”._
 
@@ -51,7 +57,7 @@ Em algumas áreas como TI, por exemplo, existem menos profissionais mulheres no 
 
 > “Normalmente essas mulheres estão muito aderentes ao perfil da vaga, os homens têm uma autoestima muito maior para se candidatar e eles realmente se dispõe ali, porque muitas vez no perfil da vaga tem muito do que a gente gostaria e pouco do que realmente é.”
 
-![](/images/uploads/dados-estático-1-.png)
+![null](/images/uploads/dados-estático-1-.png)
 
 “Eu parto do gênero porque o gênero engloba tudo, engloba etnia, raça, religião, engloba tudo. E eu tenho esse apoio, carinho e compromisso de trabalho voluntário.
 
@@ -65,7 +71,7 @@ Sabrina propõe que o assunto se torne parte naturalmente do dia-a-dia das pesso
 
 Fazer com que as pessoas sintam-se valorizadas e incluídas é o papel do RH, e isso também possui reflexo em diminuição de turnover, aumento de produtividade etc. O que é possível analisar através dos dados levantados.
 
-![](/images/uploads/wm2a4339-613-1-1-.jpg)
+![null](/images/uploads/wm2a4339-613-1-1-.jpg)
 
 “O grande ‘’boom’ não está na parte técnica, o que vai fazer diferença realmente é o olhar humano, o olhar de pessoas, o olhar da área de gente e gestão, o olhar da área de negócios, que é a área de RH. People Analytics não é de TI, ele pode sim ter a TI, óbvio, é importantíssimo conhecer estatística, matemática, ter a explicação do negócio, storytelling, mas o que vai fazer diferença entre isso tudo é o olhar de negócios.”
 
@@ -83,5 +89,5 @@ Para isso é essencial entender que todos somos pessoas diferentes e com particu
 
 Utilizar a tecnologia para valorizar o ser humano, buscar qualidade de vida para as pessoas envolvidas em uma organização e valorizar seus talentos e potenciais é essencial para que possamos trabalhar a cultura da empresa e desenvolver um senso de comunidade entre elas.
 
-**_“É muito importante estar atento à questão das automações, da era digital e principalmente da diversidade e sustentabilidade. Acho que são quatro pontos que podem ser considerados os pilares disso tudo.”
-_**
+_**“É muito importante estar atento à questão das automações, da era digital e principalmente da diversidade e sustentabilidade. Acho que são quatro pontos que podem ser considerados os pilares disso tudo.”
+**_
