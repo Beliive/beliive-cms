@@ -19,8 +19,7 @@ Temos falado muito sobre as transformações pelas quais passamos enquanto socie
 
 Muitas dessas transformações acontecem em consequência da velocidade com que desenvolvem-se novas ferramentas e tecnologias, mas algumas vezes empresas podem se prender nos aspectos tecnológicos e esquecer de que toda essa tecnologia é desenvolvida para servir ao ser humano, e não o contrário. Relembrar as organizações e seus gestores tem sido parte do desafio do RH e seu trabalho com metodologias que utilizam a tecnologia como aliado para colocar o ser humano no centro, entender quem são as pessoas que compõem uma organização e permitir que elas possam expressar suas individualidades e ser quem realmente são. 
 
-**Mas como trabalhar com a tecnologia para humanizar as empresas?
-**
+**Mas como trabalhar com a tecnologia para humanizar as empresas?**
 
 Entrevistamos a Sabrina Vasconcellos, especialista em people analytics, que fala sobre a metodologia de trabalhar com dados e analisá-los para potencializar o trabalho do RH.
 
@@ -40,8 +39,7 @@ Dados sobre recrutamento e seleção, desenvolvimento, produtividade e turnover 
 
 ## Utilizando a tecnologia para trazer diversidade
 
-**_“O mercado é diverso, se queremos ser completos, precisamos falar com esse mercado que é diverso.”
-_**
+**_“O mercado é diverso, se queremos ser completos, precisamos falar com esse mercado que é diverso.”_**
 
 Como o executivo de RH Gustavo Leme falou em sua [entrevista ](https://blog.beliive.com/posts/rh-e-cultura-organizacional/)para nosso primeiro podcast aqui da Beliive, _“Uma empresa não é feita de gente parecida”._
 
@@ -89,5 +87,4 @@ Para isso é essencial entender que todos somos pessoas diferentes e com particu
 
 Utilizar a tecnologia para valorizar o ser humano, buscar qualidade de vida para as pessoas envolvidas em uma organização e valorizar seus talentos e potenciais é essencial para que possamos trabalhar a cultura da empresa e desenvolver um senso de comunidade entre elas.
 
-_**“É muito importante estar atento à questão das automações, da era digital e principalmente da diversidade e sustentabilidade. Acho que são quatro pontos que podem ser considerados os pilares disso tudo.”
-**_
+_**“É muito importante estar atento à questão das automações, da era digital e principalmente da diversidade e sustentabilidade. Acho que são quatro pontos que podem ser considerados os pilares disso tudo.”**_
