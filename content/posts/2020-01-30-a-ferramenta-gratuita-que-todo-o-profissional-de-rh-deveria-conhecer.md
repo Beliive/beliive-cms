@@ -51,7 +51,7 @@ Os créditos podem ser utilizados dentro e fora da comunidade, para quaisquer ex
 
 Não é cobrada nenhuma taxa para instalação, inscrição ou mesmo durante a navegação do usuário, mantendo o propósito de promover uma forma alternativa de economia colaborativa, a ferramenta é completamente gratuita para indivíduos.
 
-**Já faz parte da comunidade? **
+**Já faz parte da comunidade?**
 
 Saiba como cadastrar suas experiências e necessidades de maneira simples:
 
