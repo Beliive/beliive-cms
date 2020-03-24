@@ -2,7 +2,7 @@
 template: SinglePost
 title: '#FicaEmCasa'
 status: Published
-date: '2020-03-23'
+date: '2020-03-24'
 featuredImage: /images/uploads/foto-de-capa.png
 excerpt: >-
   Junte a nós e ajude a combater a disseminação do novo coronavírus por meio de
