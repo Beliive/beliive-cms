@@ -7,6 +7,10 @@ featuredImage: >-
   /images/uploads/graphicstock-beautiful-young-woman-sitting-on-bed-working-on-laptop-writing-something-into-her-notebook-home-office_hdlkujnhzb.jpg
 excerpt: |
   Como empresas estão lidando com o isolamento social
+categories:
+  - category: Empresas e Organizações
+authors:
+  - author: Roberta Fabruzzi
 ---
 **Como empresas estão lidando com o isolamento social
 **
@@ -55,4 +59,4 @@ A Beliive também trabalha com um time 100% remoto, e o pessoal deixou algumas d
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwe.beliive%2Fvideos%2F502647627132359%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-[**\#FicaEmCasa**](https://beliive.com/communities/fica-em-casa) e fique seguro!
+[**\#FicaEmCasa**](https://beliive.com/communities/fica-em-casa) e fica seguro!
