@@ -29,20 +29,18 @@ Dentro desse contexto, para não parar as atividades muitas empresas adotaram o 
 
 ![null](/images/uploads/graphicstock-cropped-image-of-a-young-pensive-man-working-with-laptop-computer-while-sitting-on-carpet-at-home_rdxuhw28hl-1-.jpg)
 
-O Renato fala sobre dois possíveis cenários, um em que tudo pode dar certo e as pessoas passem a perceber que o trabalho remoto funciona muito bem, e que não há necessidade de deslocamentos diários em que todos saiam de suas casas para fazer algo que é possível ser realizado dentro de casa, com um computador e acesso à internet. Ou pode ser traumático, uma vez que a empresa não se organiza para isso e se resolve no improviso.
+Para Renato existem dois possíveis cenários, um em que tudo pode dar certo e as pessoas passem a perceber que o trabalho remoto funciona muito bem, descartando a necessidade de deslocamentos diários em que todos saiam de seus lares para fazer algo que é possível ser realizado dentro de casa, bastando possuir um computador e acesso à internet. Ou pode ser traumático, uma vez que a empresa não se organiza para isso e se resolve no improviso.
 
-O trabalho remoto deve ser planejado, algumas empresas começam com um projeto piloto, por vezes parcial e aí sim, sentindo os resultados desse projeto vão ampliando e modificando a cultura da empresa.
+O trabalho remoto deve ser planejado, algumas empresas começam com um projeto piloto, por vezes parcial, e sentindo os resultados desse projeto essas empresas passam ampliar o trabalho remoto,  modificando algumas vezes a própria cultura da empresa.
 
-_“Envolve transformações culturais, transformações do modelo de gestão. É um processo que não é de uma hora para outra, mas agora a gente tá vivendo o trabalho remoto emergencial em que de uma hora para outra todo mundo precisou fazer isso acontecer. (...) É uma transição muito radical para algumas empresas. Às vezes elas estão apagando um incêndio ali, às vezes \[o funcionário]  nem tem computador para trabalhar em casa, as pessoas ainda não tem estão precisando providenciar isso, e às vezes não têm acesso aos servidores da empresa.”_ 
+_“Envolve transformações culturais, transformações do modelo de gestão. É um processo que não é de uma hora para outra, mas agora a gente tá vivendo o trabalho remoto emergencial em que de uma hora para outra todo mundo precisou fazer isso acontecer. (...) É uma transição muito radical para algumas empresas. Às vezes elas estão apagando um incêndio ali, às vezes _\[o funcionário]_ nem tem computador para trabalhar em casa, as pessoas ainda estão precisando providenciar isso, e às vezes não têm acesso aos servidores da empresa.”_ 
 
 ## Guia para um trabalho remoto emergencial
 
 Para tornar menos traumático esse processo, o principal é não ficar fiscalizando o trabalho do funcionário.
 
-_“Ninguém gosta de ser vigiado, mesmo assim você encontra vários mecanismos que são utilizados para isso, mas é muito nocivo. Como por exemplo, a gente recebeu outro dia uma um relato de uma pessoa falando ‘poxa, liberaram home-office mais instalaram um aplicativo que tira print da tela de tantos em tantos minutos’. Parece assustador mas acontece, existem empresas que fazem isso. Tem várias formas de controlar as pessoas mas isso também deixa invisível o resultado do trabalho delas porque a gente tá olhando para outras coisas. Então, não controle as pessoas. Procure criar processos em que você vai ver o andamento do trabalho, e aí a forma mais simples para isso é ter expectativas bem claras e curtas.”
+_“Ninguém gosta de ser vigiado, e mesmo assim você encontra vários mecanismos que são utilizados para isso, mas é muito nocivo. Como por exemplo, a gente recebeu outro dia uma um relato de uma pessoa falando ‘poxa, liberaram home-office mais instalaram um aplicativo que tira print da tela de tantos em tantos minutos’. Parece assustador mas acontece, existem empresas que fazem isso. Tem várias formas de controlar as pessoas mas isso também deixa invisível o resultado do trabalho delas porque a gente está olhando para outras coisas. Então, não controle as pessoas. Procure criar processos em que você vai ver o andamento do trabalho, e aí a forma mais simples para isso é ter expectativas bem claras e curtas.”
 _
-
-<iframe src="https://giphy.com/embed/yfo9ccvoRPu8w" width="240" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yfo9ccvoRPu8w"></a></p>
 
 Para quem está completamente perdido nesse período, o Officeless fez um guia muito legal para ajudar as empresas, é o “[**Remotos para o bem**](https://www.officeless.cc/remotos)”.
 
@@ -50,7 +48,7 @@ Para quem está completamente perdido nesse período, o Officeless fez um guia m
 
 Apesar de tudo isso essa fase pode ser um bom empurrão para levar o trabalho remoto para quem nem ao menos imaginava essa possibilidade.
 
-_“Eu acho que o desafio principal - porque a tecnologia a gente já tem, a gente já viu que dá para fazer - mas como é que a gente faz isso chegar em quem nunca teve essa oportunidade? Eu acho que o desafio é esse é de criar oportunidade até fora dos grandes centros e isso independente da pandemia.” 
+_“Eu acho que o desafio principal - porque a tecnologia a gente já tem, a gente já viu que dá para fazer - mas como é que a gente faz isso chegar em quem nunca teve essa oportunidade? Eu acho que o desafio é esse é de criar oportunidade até fora dos grandes centros, e isso independente da pandemia.” 
 _
 
 ## A gente também trabalha remoto
@@ -60,3 +58,5 @@ A Beliive também trabalha com um time 100% remoto, e o pessoal deixou algumas d
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwe.beliive%2Fvideos%2F502647627132359%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 [**\#FicaEmCasa**](https://beliive.com/communities/fica-em-casa) e fica seguro!
+
+<iframe src="https://giphy.com/embed/yfo9ccvoRPu8w" width="240" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yfo9ccvoRPu8w"></a></p>
