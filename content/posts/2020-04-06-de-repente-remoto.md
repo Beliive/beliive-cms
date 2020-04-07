@@ -2,7 +2,7 @@
 template: SinglePost
 title: De repente remoto!
 status: Published
-date: '2020-04-06'
+date: '2020-04-07'
 featuredImage: >-
   /images/uploads/graphicstock-beautiful-young-woman-sitting-on-bed-working-on-laptop-writing-something-into-her-notebook-home-office_hdlkujnhzb.jpg
 excerpt: |
