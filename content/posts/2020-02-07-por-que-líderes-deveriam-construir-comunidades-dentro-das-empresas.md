@@ -11,8 +11,7 @@ categories:
 authors:
   - author: Juliana Spinardi
 ---
-** Como o sentimento de pertencimento pode inspirar e motivar os colaboradores 
-**
+**Como o sentimento de pertencimento pode inspirar e motivar os colaboradores**
 
 ![null](/images/uploads/storyblocks-multiethnic-startup-business-team-on-meeting-in-modern-night-office-interior-brainstorming-working-on-laptop_so8fzwidhb.jpg)
 
