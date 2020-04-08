@@ -12,8 +12,7 @@ categories:
 authors:
   - author: Roberta Fabruzzi
 ---
-**Como empresas estão lidando com o isolamento social
-**
+**Como empresas estão lidando com o isolamento social**
 
 O trabalho remoto é uma tendência e já é realidade para muitas empresas, mesmo que parcialmente. Mas ainda assim há muita resistência por um lado, que não entende e não acredita muito em uma cultura que não seja de comando e controle. Acontece que diante da pandemia de Covid-19, muitas empresas se viram obrigadas a adaptar sua maneira de trabalho, colocando seus colaboradores para trabalhar em casa, no chamado “home-office”, e tudo isso de última hora.
 
@@ -33,14 +32,13 @@ Para Renato existem dois possíveis cenários, um em que tudo pode dar certo e a
 
 O trabalho remoto deve ser planejado, algumas empresas começam com um projeto piloto, por vezes parcial, e sentindo os resultados desse projeto essas empresas passam ampliar o trabalho remoto,  modificando algumas vezes a própria cultura da empresa.
 
-_“Envolve transformações culturais, transformações do modelo de gestão. É um processo que não é de uma hora para outra, mas agora a gente tá vivendo o trabalho remoto emergencial em que de uma hora para outra todo mundo precisou fazer isso acontecer. (...) É uma transição muito radical para algumas empresas. Às vezes elas estão apagando um incêndio ali, às vezes _\[o funcionário]_ nem tem computador para trabalhar em casa, as pessoas ainda estão precisando providenciar isso, e às vezes não têm acesso aos servidores da empresa.”_ 
+_“Envolve transformações culturais, transformações do modelo de gestão. É um processo que não é de uma hora para outra, mas agora a gente tá vivendo o trabalho remoto emergencial em que de uma hora para outra todo mundo precisou fazer isso acontecer. (...) É uma transição muito radical para algumas empresas. Às vezes elas estão apagando um incêndio ali, às vezes_ [o funcionário] _nem tem computador para trabalhar em casa, as pessoas ainda estão precisando providenciar isso, e às vezes não têm acesso aos servidores da empresa.”_ 
 
 ## Guia para um trabalho remoto emergencial
 
 Para tornar menos traumático esse processo, o principal é não ficar fiscalizando o trabalho do funcionário.
 
-_“Ninguém gosta de ser vigiado, e mesmo assim você encontra vários mecanismos que são utilizados para isso, mas é muito nocivo. Como por exemplo, a gente recebeu outro dia uma um relato de uma pessoa falando ‘poxa, liberaram home-office mais instalaram um aplicativo que tira print da tela de tantos em tantos minutos’. Parece assustador mas acontece, existem empresas que fazem isso. Tem várias formas de controlar as pessoas mas isso também deixa invisível o resultado do trabalho delas porque a gente está olhando para outras coisas. Então, não controle as pessoas. Procure criar processos em que você vai ver o andamento do trabalho, e aí a forma mais simples para isso é ter expectativas bem claras e curtas.”
-_
+_“Ninguém gosta de ser vigiado, e mesmo assim você encontra vários mecanismos que são utilizados para isso, mas é muito nocivo. Como por exemplo, a gente recebeu outro dia uma um relato de uma pessoa falando ‘poxa, liberaram home-office mais instalaram um aplicativo que tira print da tela de tantos em tantos minutos’. Parece assustador mas acontece, existem empresas que fazem isso. Tem várias formas de controlar as pessoas mas isso também deixa invisível o resultado do trabalho delas porque a gente está olhando para outras coisas. Então, não controle as pessoas. Procure criar processos em que você vai ver o andamento do trabalho, e aí a forma mais simples para isso é ter expectativas bem claras e curtas.”_
 
 Para quem está completamente perdido nesse período, o Officeless fez um guia muito legal para ajudar as empresas, é o “[**Remotos para o bem**](https://www.officeless.cc/remotos)”.
 
@@ -48,8 +46,8 @@ Para quem está completamente perdido nesse período, o Officeless fez um guia m
 
 Apesar de tudo isso essa fase pode ser um bom empurrão para levar o trabalho remoto para quem nem ao menos imaginava essa possibilidade.
 
-_“Eu acho que o desafio principal - porque a tecnologia a gente já tem, a gente já viu que dá para fazer - mas como é que a gente faz isso chegar em quem nunca teve essa oportunidade? Eu acho que o desafio é esse é de criar oportunidade até fora dos grandes centros, e isso independente da pandemia.” 
-_
+_“Eu acho que o desafio principal - porque a tecnologia a gente já tem, a gente já viu que dá para fazer - mas como é que a gente faz isso chegar em quem nunca teve essa oportunidade? Eu acho que o desafio é esse é de criar oportunidade até fora dos grandes centros, e isso independente da pandemia.” _
+
 
 ## A gente também trabalha remoto
 
