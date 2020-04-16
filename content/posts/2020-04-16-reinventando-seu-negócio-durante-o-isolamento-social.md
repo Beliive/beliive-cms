@@ -24,11 +24,7 @@ Certamente estamos vivendo tempos assim, em um mundo tomado pela pandemia de Cov
 
 Diante dessa situação é preciso se reinventar para não entregar os pontos. Isso foi o que rapidamente fez uma empresa que fica em Vitória - ES chamada [Wis Educação](https://wiseducacao.com.br/). 
 
-
-
 Com 100% dos cursos presenciais paralisados por conta do isolamento social, seus fundadores e colaboradores descobriram um novo caminho, fora do óbvio que seria levar os cursos para a plataforma online.
-
-
 
 Conversamos com a **Luciana Canavese**, cofundadora e head de cultura e pessoas, para entender como essa mudança está acontecendo.
 
@@ -38,23 +34,17 @@ Conversamos com a **Luciana Canavese**, cofundadora e head de cultura e pessoas,
 
 Para encontrar novas alternativas de serviços eles precisaram buscar todo seu conhecimento e conversar com seus clientes, descobrindo assim novas necessidades que surgiram dentro do atual contexto em que estamos vivendo.
 
-> “A gente abordou alguns clientes, e também alguns clientes nos procuraram para algumas demandas específicas de aprendizado dentro da plataforma corporativa deles. Um dos nossos clientes, por exemplo - e ele tem mais de 1000 funcionários - precisou adotar modelo de home-office, que não era adotado inicialmente, e eles precisaram migrar um grupo de mais de 500 funcionários para home-office. Eles nos procuraram - até com um prazo bem curto de 5 dias - para a gente colocar de pé uma plataforma online de educação corporativa e em especial, gravar e subir um conteúdo de treinamento de home-office. Foi muito legal porque a gente já tem um know-how de produção de conteúdo para universidades corporativas, que é uma atuação nossa, a gente já atende algumas empresas do país, e o legal disso, é que foi tão bacana, a gente atendeu eles estão bem nesse curto prazo que já surgiram outras demandas de conteúdo para essa mesma plataforma que a gente criou.”
+> “A gente abordou alguns clientes, e também alguns clientes nos procuraram para algumas demandas específicas de aprendizado dentro da plataforma corporativa deles. Um dos nossos clientes, por exemplo - e ele tem mais de 1000 funcionários - precisou adotar modelo de home-office, que não era adotado inicialmente, e eles precisaram migrar um grupo de mais de 500 funcionários para home-office. Eles nos procuraram - até com um prazo bem curto de 5 dias - para a gente colocar de pé uma plataforma online de educação corporativa e em especial, gravar e subir um conteúdo de treinamento de home-office. Foi muito legal porque a gente já tem um know-how de produção de conteúdo para universidades corporativas, que é uma atuação nossa, a gente já atende algumas empresas do país, e o legal disso, é que foi tão bacana, a gente atendeu eles estão bem nesse curto prazo que já surgiram outras demandas de conteúdo para essa mesma plataforma que a gente criou.”
 
 Além disso, a Wis Educação também tem intermediado reuniões e auxiliando empresas através da plataforma Zoom, outro conhecimento que eles já possuíam e que agora utilizam para ajudar empresas e ampliarem sua gama de serviços.
 
-![](/images/uploads/coverb.jpg)
+![null](/images/uploads/coverb.jpg)
 
 Apesar das dificuldades que todos estão enfrentando nesse momento, Luciana vê uma nova oportunidade de aproximação entre os colaboradores do time.
 
-
-
-“Eu acredito que o principal que a gente está ganhando é colaboração. É o que eu mais observei de ganho entre o meu time, a gente está muito mais junto, as pessoas estão se preocupando, o grupo de WhatsApp que a gente tem com o time e que geralmente só era utilizado para coisas de trabalho mesmo, agora às vezes no final de semana as pessoas mandam mensagens que estão com saudade,  mandam alguma situação que elas viram e se lembraram do outro colega do time. Esse ganho está sendo muito legal. Eu tenho certeza que a gente não vai perder isso e que bom que essa mudança já está acontecendo.”
-
-
+> “Eu acredito que o principal que a gente está ganhando é colaboração. É o que eu mais observei de ganho entre o meu time, a gente está muito mais junto, as pessoas estão se preocupando, o grupo de WhatsApp que a gente tem com o time e que geralmente só era utilizado para coisas de trabalho mesmo, agora às vezes no final de semana as pessoas mandam mensagens que estão com saudade,  mandam alguma situação que elas viram e se lembraram do outro colega do time. Esse ganho está sendo muito legal. Eu tenho certeza que a gente não vai perder isso e que bom que essa mudança já está acontecendo.”
 
 Se é verdade que ao passar por crises como a pandemia que estamos vivendo pode nos fortalecer, uma das coisas boas que ela trará será reflexões como essa. Quais são nossos talentos? Como poderemos mudar, traçar novas rotas, ajustar metas e objetivos? 
-
-
 
 Devemos encontrar nossa resiliência e aprender a lidar com essas transformações na maneira como nos comunicamos e nos relacionamos com outras pessoas e com nosso trabalho também.
 
